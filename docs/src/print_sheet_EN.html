@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><title>AvocadoBook print sheet</title>
+<style>
+@page { size: A4; margin: 12mm; }
+body { font-family: "DejaVu Sans", Arial, sans-serif; font-size: 9.2pt; color: #1a1a1a; }
+h1 { font-size: 15pt; margin: 0 0 2mm; }
+h2 { font-size: 11pt; margin: 5mm 0 1.5mm; border-bottom: 1.5px solid #333; padding-bottom: 1mm; }
+p.note { margin: 1mm 0 2mm; color: #444; }
+table { border-collapse: collapse; width: 100%; margin-bottom: 2mm; }
+th, td { border: 1px solid #999; padding: 1.2mm 1.6mm; vertical-align: top; text-align: left; }
+th { background: #e8e8e8; }
+td.k { width: 30%; font-weight: bold; background: #f6f6f6; }
+.two { display: flex; gap: 4mm; } .two > div { flex: 1; }
+.tag { display:inline-block; padding:0 1.5mm; border-radius:2mm; font-size:8pt; font-weight:bold; }
+.petg { background:#d7e9ff; } .pla { background:#ffe2c6; }
+.pb { page-break-before: always; }
+ol, ul { margin: 1mm 0 2mm 5mm; padding-left: 3mm; }
+li { margin-bottom: 0.6mm; }
+</style></head><body>
+
+<h1>🥑 AvocadoBook toy laptop – print sheet (Anycubic Kobra X + ACE)</h1>
+<p class="note">Starting values: Anycubic does not publish a dedicated PETG profile for the Kobra X. Start from the <b>Kobra X + PETG</b> profile of Anycubic Slicer Next (version ≥ 1.3.9.3) and change only the items below. Speeds not listed, pressure advance and retraction: keep the profile values. <b>Everything below is already set in the project file</b> <code>AvocadoBook_progetto.3mf</code>.</p>
+
+<h2>1. Materials and ACE slots</h2>
+<table>
+<tr><th>Slot</th><th>Material</th><th>Colour</th><th>Used for</th></tr>
+<tr><td>1</td><td><span class="tag petg">PETG</span></td><td>Grey</td><td>bottom, top case, trackpad, lid body</td></tr>
+<tr><td>2</td><td><span class="tag petg">PETG</span></td><td>White</td><td>key legends, lid logo, S‑springs</td></tr>
+<tr><td>3</td><td><span class="tag petg">PETG</span></td><td>Black</td><td>keys, screen, screen bezel, text under the bottom</td></tr>
+<tr><td>4</td><td><span class="tag pla">PLA</span></td><td>any colour</td><td>small hinge support (plate 3) and sheets under the springs (plate 6) only</td></tr>
+</table>
+<p class="note"><b>Project file</b> <code>AvocadoBook_progetto.3mf</code>: 7 plates, slots and the settings of this sheet already set. Every 3MF has <b>one group per material</b> ("1 GRIGIO PETG" = grey, "2 BIANCO PETG" = white, "3 NERO PETG" = black, "4 PLA (supporti)" = PLA supports): assign the filament to the group, not to single parts. On the printer, the type of each slot must match the slicer (PETG/PLA). Spools without RFID: set type and colour of the slot by hand.</p>
+
+<h2>2. Filament settings</h2>
+<div class="two"><div>
+<table>
+<tr><th colspan="2"><span class="tag petg">PETG</span> grey, white, black</th></tr>
+<tr><td class="k">Nozzle</td><td>230 °C, first layer included (it must stay inside the PLA range, because some plates use both)</td></tr>
+<tr><td class="k">Bed</td><td>80 °C for the whole print (the lid warped at 70 °C)</td></tr>
+<tr><td class="k">Part fan</td><td>min 10 % – max 30 %, off for the first 5 layers (less cooling = less warping)</td></tr>
+<tr><td class="k">Flow ratio</td><td>0.95–0.98 (best after a calibration)</td></tr>
+<tr><td class="k">Max volumetric speed</td><td>12 mm³/s</td></tr>
+<tr><td class="k">Z‑hop</td><td>0.4 mm (fewer scratches and strings)</td></tr>
+<tr><td class="k">Drying</td><td>65 °C for 4–6 h before long prints</td></tr>
+<tr><td class="k">Smooth PEI plate (print aid, not part of the toy)</td><td>a thin layer of glue stick as release agent</td></tr>
+</table>
+</div><div>
+<table>
+<tr><th colspan="2"><span class="tag pla">PLA</span> supports only</th></tr>
+<tr><td class="k">Nozzle</td><td>225 °C (inside the PETG range)</td></tr>
+<tr><td class="k">Bed</td><td>70 °C</td></tr>
+<tr><td class="k">Part fan</td><td>60–100 %</td></tr>
+<tr><td class="k">Interface</td><td>PLA and PETG do not bond: the supports come off clean by hand. The small gap is already in the model.</td></tr>
+</table>
+</div></div>
+
+<h2>3. Process settings (all plates)</h2>
+<table>
+<tr><td class="k">Layer height</td><td>0.20 mm (first layer 0.20 mm)</td></tr>
+<tr><td class="k">Walls</td><td>4 (keys and bezel: 3)</td></tr>
+<tr><td class="k">Top / bottom layers</td><td>5 / 4</td></tr>
+<tr><td class="k">Infill</td><td>gyroid 15 % (top case 30 %, lid and trackpad 20 %, springs 100 %)</td></tr>
+<tr><td class="k">Wall generator</td><td>Arachne (default) – needed for thin ribs and leaves</td></tr>
+<tr><td class="k">Elephant foot compensation</td><td>0.15 mm</td></tr>
+<tr><td class="k">Hole / X‑Y contour compensation</td><td>0 / 0 (tolerances are built into the model)</td></tr>
+<tr><td class="k">Supports</td><td><b>off</b> (the only support needed is already a part of the model)</td></tr>
+<tr><td class="k">Ironing</td><td><b>off everywhere</b>: with PETG it drags blobs over the surface. Plate <b>2_piano</b>: 8 top layers, 30 % infill, monotonic top surface 0.4 mm at 40 mm/s.</td></tr>
+<tr><td class="k">Brim</td><td><b>none on any plate</b> (a PETG brim on textured PEI only comes off with scissors); the large flat parts have tear‑off "mouse ears" built in</td></tr>
+<tr><td class="k">Speed (quality first)</td><td>first layer 25 mm/s (it is the visible face of the parts printed face down); outer wall and top surfaces 60 mm/s; inner walls 120 mm/s; outer wall and top surface acceleration 1000 mm/s²; precise outer wall on</td></tr>
+<tr><td class="k">Seam</td><td>aligned / rear</td></tr>
+<tr><td class="k">Prime tower</td><td>only on the multicolour plates (1_fondo, 3_coperchio, 4_tasti, 6_molle_S); width 35 mm. <b>Position: back left</b>, e.g. X ≈ 15, Y ≈ 200: on those plates the area X 0–85 / Y 182–260 is kept free on purpose. If the slicer re-centres the objects on import, move them to the front right first.</td></tr>
+<tr><td class="k">Flushing volumes</td><td>black → white: increase (multiplier 1.2–1.5); grey ↔ black: default; to/from PLA: default</td></tr>
+</table>
+
+<h2 class="pb">4. Plates</h2>
+<table>
+<tr><th style="width:17%">Plate</th><th style="width:30%">Object → filament</th><th>Notes</th></tr>
+<tr><td><b>1_fondo</b> (bottom)<br>2 colours</td><td>A_fondo → 1 grey<br>A_fondo_scritta_nera → 3 black</td><td>The text "AvocadoBook – Designed in Italy" under the bottom is black, in the first 3 layers (face on the bed): prime tower back left, only for those layers. No brim. Ribs with the key-tab channels, spring slots and trackpad click leaves: do not reduce the walls, no supports.</td></tr>
+<tr><td><b>2_piano</b> (top case)<br>1 colour</td><td>B_piano → 1 grey</td><td>4 tear‑off ears at the corners (snap them off by hand). <b>The two hinge covers are printed solid</b>: the project has two modifiers (<i>MOD_cerniera_piena_1/2</i>: 100 % infill, 6 walls); do not delete them (the separate file 2_piano.3mf does NOT have them). Above the axle the cover forms a small arch: no supports. No ironing. <b>Remove it with a cold bed by flexing the plate, never by pulling on the hinge covers.</b></td></tr>
+<tr><td><b>3_coperchio</b> (lid)<br>4 materials</td><td>C_coperchio_corpo → 1 grey<br>C_coperchio_schermo → 3 black<br>C_coperchio_logo → 2 white<br>C_supporto_PLA → 4 PLA</td><td>Printed with the outer face on the bed: the logo is in the first 4 layers. <b>6 tear‑off ears</b> (corners and next to the hinge notches, 4 mm neck): bend them back and forth by hand, file the small leftover. <b>Essential: cover the printer</b> (an upside-down cardboard box or a tent) and keep it away from drafts: the lid is the part most prone to warping. Remove the PLA support by hand after printing.</td></tr>
+<tr><td><b>4_tasti</b> (keys)<br>2 colours</td><td>D_tasti → 3 black<br>D_lettere → 2 white</td><td>Hollow keys printed face down: legends in the first 3 layers, smooth face. 3 walls. Increase black → white flushing, otherwise the legends turn grey. The key tabs stick out below the edge: no supports. No brim. First layer 20 mm/s.</td></tr>
+<tr><td><b>5_cornice_schermo</b> (screen bezel)<br>1 colour</td><td>E_cornice → 3 black</td><td>Visible face on the bed: clean bed, slow first layer. 4 tear‑off ears. 3 walls. Pegs: minimum layer time ≥ 5 s so they don't deform.</td></tr>
+<tr><td><b>6_molle_S</b> (springs)<br>2 materials</td><td>F_molle_S_… → 2 white<br>F_fogli_PLA → 4 PLA</td><td>12 spring strips, each on a <b>0.4 mm PLA sheet</b>: PETG does not bond to PLA, so the springs come off by hand, no ears and no brim. 100 % infill, 2 walls, Arachne. Prime tower back left.</td></tr>
+<tr><td><b>7_trackpad</b><br>1 colour</td><td>B_trackpad → 1 grey</td><td>Trackpad face down, <b>no supports</b>: the rim and the guide fins have 45° top faces and print by themselves. 4 walls, 20 % infill.</td></tr>
+</table>
+<p class="note">Part names in the files are in Italian: fondo = bottom, piano = top case, coperchio = lid, tasti = keys, lettere = legends, cornice = bezel, molle = springs, fogli = sheets, supporto = support, scritta nera = black text.</p>
+
+<h2>5. Assembly (summary – see the assembly instructions)</h2>
+<ol>
+<li>In the bottom, push the 10 spring strips <b>upright</b> into their slots, rail down: one front and one back strip per row (the back one is mirrored). The file name gives row and side (fila 1 = number row; davanti = front, dietro = back).</li>
+<li>Place every key: its 4 tabs slide into the channels of the ribs. Trackpad: insert the 2 short strips, then place the trackpad.</li>
+<li>Lid: slide the hinge axle from the front into the two cradles of the bottom and <b>open it to at least 105°</b> (at 90° the screen gets in the way of the top case).</li>
+<li>Lower the top case from above: the two hinge covers go over the axle. Press at the back first, then towards the front, until all hooks click.</li>
+</ol>
+
+<h2>6. Quick fixes</h2>
+<table>
+<tr><th style="width:35%">Problem</th><th>What to try</th></tr>
+<tr><td>Strings / rough surfaces</td><td>dry the PETG; nozzle −5 °C (not below 225 °C on plates with PLA); Z‑hop 0.4</td></tr>
+<tr><td>Parts that don't fit</td><td>elephant foot compensation 0.15; check the printer's dimensional calibration</td></tr>
+<tr><td>Greyish legends / logo</td><td>increase black → white flushing</td></tr>
+<tr><td>Prime tower comes loose</td><td>make it wider (more bed contact); clean the bed</td></tr>
+<tr><td>Layers splitting (brittle hooks)</td><td>lower fan; nozzle +5 °C</td></tr>
+<tr><td>PETG tearing the bed surface</td><td>glue stick as release agent</td></tr>
+</table>
+</body></html>

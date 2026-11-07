@@ -1,0 +1,42 @@
+TYTUŁ
+🥑 AvocadoBook – Laptop-zabawka z prawdziwymi klawiszami, klikającym touchpadem i zawiasem z zatrzaskami – bez śrub, cały z PETG 🧸
+
+PODSUMOWANIE
+🥑 AvocadoBook — Realistyczny laptop-zabawka, w całości wydrukowany i składany na zatrzaski: ⌨️ 50 klawiszy, które naprawdę się wciskają, 🖱️ płaski touchpad, który klika, 🔌 port USB‑C, który trzyma prawdziwy kabel, 🖥️ pokrywa z zawiasem, który zostaje otwarty. 🚫🔩 Bez śrub, bez kleju, nic do kupienia!
+
+OPIS
+🧸 Zabawka, która wygląda jak prawdziwy komputer i której można „używać”, a nie tylko na nią patrzeć. 💖
+
+⭐ CECHY
+⌨️ Pełna klawiatura: 50 kwadratowych klawiszy w przesuniętych rzędach jak w prawdziwej klawiaturze, białe litery wydrukowane w klawiszu (bez naklejek!). Każdy klawisz ugina się o 1,5 mm na dwóch drukowanych sprężynach S i sam wraca. 🔁
+🔒 Po złożeniu klawiszy nie da się wyjąć (z myślą o najmłodszych). 👶
+🖱️ Touchpad równo z obudową: opuszcza się o 1,2 mm z przyjemnym *kliknięciem* i wraca. 👆
+🔌 Realistyczny port USB‑C ze sprężystymi języczkami: kabel wchodzi i trzyma się jak w prawdziwej ładowarce. ⚡
+🖥️ Pokrywa z czarnym ekranem, ramką i logo; zawias z zatrzaskami utrzymuje pokrywę otwartą. 📐
+🧩 Tylko połączenia zatrzaskowe: 🚫 śruby, 🚫 klej, 🚫 kupione części.
+📏 Wymiary: około 250 × 176 mm, ekran 230 × 144 mm.
+🇮🇹 Na spodzie, na czarno: „AvocadoBook – Designed in Italy” (druk wielokolorowy, bez naklejki).
+
+🎨 MATERIAŁY
+⬜ Szary PETG: spód, górna obudowa, touchpad, pokrywa
+⬛ Czarny PETG: klawisze, ekran, ramka
+🤍 Biały PETG: litery, logo, sprężyny
+🟥 PLA (dowolny kolor): tylko jako odłamywana podpora (arkusze pod sprężynami i mała podpórka zawiasu). PETG i PLA nie łączą się ze sobą ➜ rozdzielają się palcami, ✂️ bez cięcia!
+
+🖨️ DRUK
+✅ Wydrukowane i przetestowane na Anycubic Kobra X z ACE (4 sloty): 1️⃣ szary PETG · 2️⃣ biały PETG · 3️⃣ czarny PETG · 4️⃣ PLA
+📦 Plik 3MF to projekt Anycubic Slicer Next z 7 gotowymi stołami (ustawienia, kolory i sloty w zestawie). Dla innych drukarek wielokolorowych użyj plików poszczególnych stołów i przypisz kolory jak wyżej.
+⚙️ Warstwa 0,2 mm · 4 ściany · gyroid 15–30 % · bez podpór slicera · bez brimu · stół 80 °C dla PETG.
+🌬️ Pokrywa i górna obudowa są duże i płaskie: użyj obudowy lub przykryj drukarkę i unikaj przeciągów, aby się nie wypaczyły.
+📄 Wszystkie szczegóły w załączonej karcie druku (PDF).
+
+🔧 MONTAŻ
+📘 Zobacz załączony PDF „Instrukcja montażu”. W skrócie: 🌀 sprężyny w spodzie ➜ 🖥️ pokrywa ➜ ⌨️ klawisze i touchpad ➜ 🔒 górna obudowa zatrzaskuje się na hakach. 🎉
+
+⚠️ BEZPIECZEŃSTWO
+🚸 Zawiera małe części: nieodpowiednie dla dzieci poniżej 3 lat. 🧑‍🔧 Montaż przez osobę dorosłą. 🔍 Regularnie sprawdzaj, czy nie ma pękniętych lub ostrych części.
+
+🤖 JAK POWSTAŁ
+Zaprojektowany z pomocą asystenta AI (Claude od Anthropic), który napisał parametryczny kod CAD; 💡 pomysł, decyzje projektowe i 🧪 dziesiątki wydruków testowych do dopracowania sprężyn, touchpada, portu USB‑C i zawiasu są moje.
+
+😊 Jeśli go wydrukujesz, wrzuć zdjęcie: bardzo chętnie zobaczę Twój! 📸

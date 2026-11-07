@@ -1,0 +1,42 @@
+TITOLO
+🥑 AvocadoBook – Laptop giocattolo con tasti veri, trackpad che fa click e cerniera a scatto – senza viti, solo PETG 🧸
+
+DESCRIZIONE BREVE (riassunto)
+🥑 AvocadoBook — Un portatile giocattolo realistico, tutto stampato e montato a incastro: ⌨️ 50 tasti che si premono davvero, 🖱️ trackpad a filo con click, 🔌 porta USB‑C in cui si infila un cavo vero, 🖥️ coperchio con cerniera che si ferma aperto. 🚫🔩 Niente viti, niente colla, niente pezzi da comprare!
+
+DESCRIZIONE
+🧸 Un giocattolo che sembra un computer vero e che si può "usare", non solo guardare. 💖
+
+⭐ CARATTERISTICHE
+⌨️ Tastiera completa: 50 tasti quadrati, file sfalsate come in una tastiera vera, lettere bianche stampate nel tasto (niente adesivi!). Ogni tasto scende di 1,5 mm su due molle a S stampate e torna su da solo. 🔁
+🔒 Tasti non estraibili: una volta montati restano al loro posto (pensato per i più piccoli). 👶
+🖱️ Trackpad a filo con il piano: si abbassa di 1,2 mm con un bel *click* e risale. 👆
+🔌 Porta USB‑C realistica con linguette elastiche: il cavo entra e si aggancia come in un caricatore vero. ⚡
+🖥️ Coperchio con schermo nero, cornice e logo; cerniera a scatti che tiene il coperchio aperto. 📐
+🧩 Montaggio solo a incastro (ganci a scatto): 🚫 viti, 🚫 colla, 🚫 pezzi da comprare.
+📏 Dimensioni: circa 250 × 176 mm, schermo 230 × 144 mm.
+🇮🇹 Sotto il fondo, in nero: "AvocadoBook – Designed in Italy" (stampata a colori, non è un adesivo).
+
+🎨 MATERIALI
+⬜ PETG grigio: fondo, piano, trackpad, coperchio
+⬛ PETG nero: tasti, schermo, cornice
+🤍 PETG bianco: lettere, logo, molle
+🟥 PLA (qualsiasi colore): solo come supporto da staccare (fogli sotto le molle e supportino della cerniera). PETG e PLA non si incollano tra loro ➜ si staccano con le dita, ✂️ senza forbici!
+
+🖨️ STAMPA
+✅ Stampato e provato su Anycubic Kobra X con ACE (4 slot): 1️⃣ PETG grigio · 2️⃣ PETG bianco · 3️⃣ PETG nero · 4️⃣ PLA
+📦 Il 3MF è un progetto per Anycubic Slicer Next con 7 piatti già pronti (impostazioni, colori e slot inclusi). Per altre stampanti multicolore usa i file dei singoli piatti e assegna i colori come sopra.
+⚙️ Strato 0,2 mm · 4 pareti · gyroid 15–30 % · niente supporti dello slicer · niente brim · piatto 80 °C per il PETG.
+🌬️ Coperchio e piano sono grandi e piatti: stampante chiusa o coperta e lontana da correnti d'aria, così non si imbarcano.
+📄 Tutti i dettagli sono nella scheda di stampa (PDF) allegata.
+
+🔧 MONTAGGIO
+📘 Vedi il PDF "Istruzioni di montaggio" allegato. In breve: 🌀 molle nel fondo ➜ 🖥️ coperchio ➜ ⌨️ tasti e trackpad ➜ 🔒 si chiude con il piano che scatta sui ganci. 🎉
+
+⚠️ SICUREZZA
+🚸 Contiene piccole parti: non adatto a bambini sotto i 3 anni. 🧑‍🔧 Montaggio a cura di un adulto. 🔍 Controlla ogni tanto che non ci siano pezzi rotti o taglienti.
+
+🤖 COME È NATO
+Progettato con l'aiuto di un assistente IA (Claude, di Anthropic) che ha scritto il codice CAD parametrico; 💡 l'idea, le scelte di progetto e 🧪 decine di stampe di prova per mettere a punto molle, trackpad, porta USB‑C e cerniera sono mie.
+
+😊 Se lo stampi, carica una foto: mi farebbe tantissimo piacere vedere il tuo! 📸

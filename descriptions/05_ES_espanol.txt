@@ -1,0 +1,42 @@
+TÍTULO
+🥑 AvocadoBook – Portátil de juguete con teclas reales, touchpad que hace clic y bisagra con topes – sin tornillos, todo en PETG 🧸
+
+RESUMEN
+🥑 AvocadoBook — Un portátil de juguete realista, totalmente impreso y montado a presión: ⌨️ 50 teclas que se pulsan de verdad, 🖱️ un touchpad enrasado que hace clic, 🔌 un puerto USB‑C que sujeta un cable real, 🖥️ una tapa con bisagra que se queda abierta. 🚫🔩 ¡Sin tornillos, sin pegamento, nada que comprar!
+
+DESCRIPCIÓN
+🧸 Un juguete que parece un ordenador de verdad y que se puede «usar», no solo mirar. 💖
+
+⭐ CARACTERÍSTICAS
+⌨️ Teclado completo: 50 teclas cuadradas en filas escalonadas como en un teclado real, letras blancas impresas en la tecla (¡sin pegatinas!). Cada tecla baja 1,5 mm sobre dos muelles en S impresos y vuelve a subir sola. 🔁
+🔒 Las teclas no se pueden sacar una vez montadas (pensado para los más pequeños). 👶
+🖱️ Touchpad enrasado con la carcasa: baja 1,2 mm con un buen *clic* y vuelve a subir. 👆
+🔌 Puerto USB‑C realista con lengüetas elásticas: el cable entra y queda sujeto como en un cargador de verdad. ⚡
+🖥️ Tapa con pantalla negra, marco y logo; bisagra con topes que mantiene la tapa abierta. 📐
+🧩 Montaje solo a presión: 🚫 tornillos, 🚫 pegamento, 🚫 piezas compradas.
+📏 Medidas: unos 250 × 176 mm, pantalla 230 × 144 mm.
+🇮🇹 Debajo, en negro: «AvocadoBook – Designed in Italy» (impreso en color, sin pegatina).
+
+🎨 MATERIALES
+⬜ PETG gris: base, carcasa superior, touchpad, tapa
+⬛ PETG negro: teclas, pantalla, marco
+🤍 PETG blanco: letras, logo, muelles
+🟥 PLA (cualquier color): solo como soporte desprendible (láminas bajo los muelles y pequeño soporte de la bisagra). El PETG y el PLA no se pegan entre sí ➜ se separan con los dedos, ✂️ ¡sin cortar!
+
+🖨️ IMPRESIÓN
+✅ Impreso y probado en una Anycubic Kobra X con ACE (4 ranuras): 1️⃣ PETG gris · 2️⃣ PETG blanco · 3️⃣ PETG negro · 4️⃣ PLA
+📦 El 3MF es un proyecto de Anycubic Slicer Next con 7 bandejas listas (ajustes, colores y ranuras incluidos). Para otras impresoras multicolor, usa los archivos de cada bandeja y asigna los colores como arriba.
+⚙️ Capas de 0,2 mm · 4 perímetros · giroide 15–30 % · sin soportes del laminador · sin borde · cama a 80 °C para PETG.
+🌬️ La tapa y la carcasa superior son grandes y planas: usa un cerramiento o cubre la impresora y evita corrientes de aire para que no se deformen.
+📄 Todos los detalles están en la hoja de impresión (PDF) adjunta.
+
+🔧 MONTAJE
+📘 Consulta el PDF «Instrucciones de montaje» adjunto. En resumen: 🌀 muelles en la base ➜ 🖥️ tapa ➜ ⌨️ teclas y touchpad ➜ 🔒 la carcasa superior encaja en los ganchos. 🎉
+
+⚠️ SEGURIDAD
+🚸 Contiene piezas pequeñas: no apto para menores de 3 años. 🧑‍🔧 Montaje a cargo de un adulto. 🔍 Comprueba de vez en cuando que no haya piezas rotas o cortantes.
+
+🤖 CÓMO NACIÓ
+Diseñado con la ayuda de un asistente de IA (Claude, de Anthropic) que escribió el código CAD paramétrico; 💡 la idea, las decisiones de diseño y 🧪 decenas de impresiones de prueba para ajustar muelles, touchpad, puerto USB‑C y bisagra son mías.
+
+😊 Si lo imprimes, sube una foto: ¡me encantaría ver el tuyo! 📸

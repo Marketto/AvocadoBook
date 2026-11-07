@@ -1,0 +1,496 @@
+🥑 AvocadoBook
+🌍 🇮🇹 ITALIANO · 🇬🇧 ENGLISH · 🇫🇷 FRANÇAIS · 🇩🇪 DEUTSCH · 🇪🇸 ESPAÑOL · 🇵🇹 PORTUGUÊS · 🇳🇱 NEDERLANDS · 🇵🇱 POLSKI · 🇨🇳 中文 · 🇯🇵 日本語 · 🇷🇺 РУССКИЙ · 🇸🇦 العربية
+
+━━━━━━━━━━━━━━━━━━━━
+🇮🇹 ITALIANO
+━━━━━━━━━━━━━━━━━━━━
+🥑 AvocadoBook — Un portatile giocattolo realistico, tutto stampato e montato a incastro: ⌨️ 50 tasti che si premono davvero, 🖱️ trackpad a filo con click, 🔌 porta USB‑C in cui si infila un cavo vero, 🖥️ coperchio con cerniera che si ferma aperto. 🚫🔩 Niente viti, niente colla, niente pezzi da comprare!
+
+🧸 Un giocattolo che sembra un computer vero e che si può "usare", non solo guardare. 💖
+
+⭐ CARATTERISTICHE
+⌨️ Tastiera completa: 50 tasti quadrati, file sfalsate come in una tastiera vera, lettere bianche stampate nel tasto (niente adesivi!). Ogni tasto scende di 1,5 mm su due molle a S stampate e torna su da solo. 🔁
+🔒 Tasti non estraibili: una volta montati restano al loro posto (pensato per i più piccoli). 👶
+🖱️ Trackpad a filo con il piano: si abbassa di 1,2 mm con un bel *click* e risale. 👆
+🔌 Porta USB‑C realistica con linguette elastiche: il cavo entra e si aggancia come in un caricatore vero. ⚡
+🖥️ Coperchio con schermo nero, cornice e logo; cerniera a scatti che tiene il coperchio aperto. 📐
+🧩 Montaggio solo a incastro (ganci a scatto): 🚫 viti, 🚫 colla, 🚫 pezzi da comprare.
+📏 Dimensioni: circa 250 × 176 mm, schermo 230 × 144 mm.
+🇮🇹 Sotto il fondo, in nero: "AvocadoBook – Designed in Italy" (stampata a colori, non è un adesivo).
+
+🎨 MATERIALI
+⬜ PETG grigio: fondo, piano, trackpad, coperchio
+⬛ PETG nero: tasti, schermo, cornice
+🤍 PETG bianco: lettere, logo, molle
+🟥 PLA (qualsiasi colore): solo come supporto da staccare (fogli sotto le molle e supportino della cerniera). PETG e PLA non si incollano tra loro ➜ si staccano con le dita, ✂️ senza forbici!
+
+🖨️ STAMPA
+✅ Stampato e provato su Anycubic Kobra X con ACE (4 slot): 1️⃣ PETG grigio · 2️⃣ PETG bianco · 3️⃣ PETG nero · 4️⃣ PLA
+📦 Il 3MF è un progetto per Anycubic Slicer Next con 7 piatti già pronti (impostazioni, colori e slot inclusi). Per altre stampanti multicolore usa i file dei singoli piatti e assegna i colori come sopra.
+⚙️ Strato 0,2 mm · 4 pareti · gyroid 15–30 % · niente supporti dello slicer · niente brim · piatto 80 °C per il PETG.
+🌬️ Coperchio e piano sono grandi e piatti: stampante chiusa o coperta e lontana da correnti d'aria, così non si imbarcano.
+📄 Tutti i dettagli sono nella scheda di stampa (PDF) allegata.
+
+🔧 MONTAGGIO
+📘 Vedi il PDF "Istruzioni di montaggio" allegato. In breve: 🌀 molle nel fondo ➜ 🖥️ coperchio ➜ ⌨️ tasti e trackpad ➜ 🔒 si chiude con il piano che scatta sui ganci. 🎉
+
+⚠️ SICUREZZA
+🚸 Contiene piccole parti: non adatto a bambini sotto i 3 anni. 🧑‍🔧 Montaggio a cura di un adulto. 🔍 Controlla ogni tanto che non ci siano pezzi rotti o taglienti.
+
+🤖 COME È NATO
+Progettato con l'aiuto di un assistente IA (Claude, di Anthropic) che ha scritto il codice CAD parametrico; 💡 l'idea, le scelte di progetto e 🧪 decine di stampe di prova per mettere a punto molle, trackpad, porta USB‑C e cerniera sono mie.
+
+😊 Se lo stampi, carica una foto: mi farebbe tantissimo piacere vedere il tuo! 📸
+
+━━━━━━━━━━━━━━━━━━━━
+🇬🇧 ENGLISH
+━━━━━━━━━━━━━━━━━━━━
+🥑 AvocadoBook — A realistic toy laptop, fully printed and snap-fit: ⌨️ 50 keys that really press, 🖱️ a flush trackpad that clicks, 🔌 a USB‑C port that grips a real cable, 🖥️ a lid with a hinge that stays open. 🚫🔩 No screws, no glue, nothing to buy!
+
+🧸 A toy that looks like a real computer and can be "used", not just looked at. 💖
+
+⭐ FEATURES
+⌨️ Full keyboard: 50 square keys in staggered rows like a real keyboard, white legends printed into the keys (no stickers!). Each key travels 1.5 mm on two printed S‑springs and comes back up by itself. 🔁
+🔒 Keys can't be pulled out once assembled (made for little ones). 👶
+🖱️ Trackpad flush with the deck: it goes down 1.2 mm with a nice *click* and springs back. 👆
+🔌 Realistic USB‑C port with flexible fingers: a real cable plugs in and holds like in a charger. ⚡
+🖥️ Lid with black screen, bezel and logo; detent hinge that keeps the lid open. 📐
+🧩 Snap-fit only: 🚫 screws, 🚫 glue, 🚫 bought parts.
+📏 Size: about 250 × 176 mm, screen 230 × 144 mm.
+🇮🇹 Underneath, in black: "AvocadoBook – Designed in Italy" (multicolour print, no sticker).
+
+🎨 MATERIALS
+⬜ Grey PETG: bottom, top case, trackpad, lid
+⬛ Black PETG: keys, screen, bezel
+🤍 White PETG: legends, logo, springs
+🟥 PLA (any colour): only as break-away support (sheets under the springs and a small hinge support). PETG and PLA don't bond ➜ they separate by hand, ✂️ no cutting!
+
+🖨️ PRINTING
+✅ Printed and tested on an Anycubic Kobra X with ACE (4 slots): 1️⃣ grey PETG · 2️⃣ white PETG · 3️⃣ black PETG · 4️⃣ PLA
+📦 The 3MF is an Anycubic Slicer Next project with 7 ready plates (settings, colours and slots included). For other multi-colour printers use the per-plate files and assign colours as above.
+⚙️ 0.2 mm layers · 4 walls · gyroid 15–30 % · no slicer supports · no brim · bed 80 °C for PETG.
+🌬️ The lid and top case are large and flat: use an enclosure or cover the printer and avoid drafts to prevent warping.
+📄 All details are in the attached print sheet (PDF, English and Italian).
+
+🔧 ASSEMBLY
+📘 See the attached assembly instructions (PDF). In short: 🌀 springs into the bottom ➜ ⌨️ keys and trackpad ➜ 🖥️ slide the lid hinge into the bottom and open it to at least 105° ➜ 🔒 the top case snaps onto the hooks. 🎉
+
+⚠️ SAFETY
+🚸 Contains small parts: not suitable for children under 3. 🧑‍🔧 Adult assembly. 🔍 Check regularly for broken or sharp parts.
+
+🤖 HOW IT WAS MADE
+Designed with the help of an AI assistant (Claude by Anthropic) that wrote the parametric CAD code; 💡 the idea, design decisions and 🧪 dozens of test prints to tune springs, trackpad, USB‑C port and hinge are mine.
+
+💼 License: CC BY-NC-SA. For commercial use (selling prints or files), please contact me.
+
+😊 If you print one, please post a make: I'd love to see yours! 📸
+
+━━━━━━━━━━━━━━━━━━━━
+🇫🇷 FRANÇAIS
+━━━━━━━━━━━━━━━━━━━━
+🥑 AvocadoBook — Un ordinateur portable jouet réaliste, entièrement imprimé et assemblé par emboîtement : ⌨️ 50 touches qui s'enfoncent vraiment, 🖱️ un pavé tactile affleurant qui clique, 🔌 un port USB‑C qui retient un vrai câble, 🖥️ un couvercle avec une charnière qui reste ouverte. 🚫🔩 Ni vis, ni colle, rien à acheter !
+
+🧸 Un jouet qui ressemble à un vrai ordinateur et qu'on peut « utiliser », pas seulement regarder. 💖
+
+⭐ CARACTÉRISTIQUES
+⌨️ Clavier complet : 50 touches carrées en rangées décalées comme sur un vrai clavier, lettres blanches imprimées dans la touche (pas d'autocollants !). Chaque touche descend de 1,5 mm sur deux ressorts en S imprimés et remonte toute seule. 🔁
+🔒 Les touches ne peuvent pas être retirées une fois montées (pensé pour les petits). 👶
+🖱️ Pavé tactile au ras du boîtier : il s'enfonce de 1,2 mm avec un joli *clic* et remonte. 👆
+🔌 Port USB‑C réaliste avec languettes élastiques : le câble s'enfiche et tient comme dans un vrai chargeur. ⚡
+🖥️ Couvercle avec écran noir, cadre et logo ; charnière à crans qui maintient le couvercle ouvert. 📐
+🧩 Assemblage uniquement par clipsage : 🚫 vis, 🚫 colle, 🚫 pièces à acheter.
+📏 Dimensions : environ 250 × 176 mm, écran 230 × 144 mm.
+🇮🇹 Dessous, en noir : « AvocadoBook – Designed in Italy » (impression multicolore, pas d'autocollant).
+
+🎨 MATÉRIAUX
+⬜ PETG gris : base, boîtier supérieur, pavé tactile, couvercle
+⬛ PETG noir : touches, écran, cadre
+🤍 PETG blanc : lettres, logo, ressorts
+🟥 PLA (n'importe quelle couleur) : uniquement comme support détachable (feuilles sous les ressorts et petit support de charnière). Le PETG et le PLA ne collent pas entre eux ➜ ils se séparent à la main, ✂️ sans couper !
+
+🖨️ IMPRESSION
+✅ Imprimé et testé sur Anycubic Kobra X avec ACE (4 emplacements) : 1️⃣ PETG gris · 2️⃣ PETG blanc · 3️⃣ PETG noir · 4️⃣ PLA
+📦 Le 3MF est un projet Anycubic Slicer Next avec 7 plateaux prêts (réglages, couleurs et emplacements inclus). Pour d'autres imprimantes multicolores, utilisez les fichiers de chaque plateau et attribuez les couleurs comme ci-dessus.
+⚙️ Couches de 0,2 mm · 4 parois · gyroïde 15–30 % · pas de supports du trancheur · pas de bordure · plateau à 80 °C pour le PETG.
+🌬️ Le couvercle et le boîtier supérieur sont grands et plats : utilisez un caisson ou couvrez l'imprimante et évitez les courants d'air pour éviter le gauchissement.
+📄 Tous les détails sont dans la fiche d'impression (PDF) jointe.
+
+🔧 ASSEMBLAGE
+📘 Voir le PDF « Instructions de montage » joint. En bref : 🌀 ressorts dans la base ➜ 🖥️ couvercle ➜ ⌨️ touches et pavé tactile ➜ 🔒 le boîtier supérieur se clipse sur les crochets. 🎉
+
+⚠️ SÉCURITÉ
+🚸 Contient de petites pièces : ne convient pas aux enfants de moins de 3 ans. 🧑‍🔧 Montage par un adulte. 🔍 Vérifiez régulièrement l'absence de pièces cassées ou coupantes.
+
+🤖 COMMENT IL A ÉTÉ CRÉÉ
+Conçu avec l'aide d'un assistant IA (Claude, d'Anthropic) qui a écrit le code CAO paramétrique ; 💡 l'idée, les choix de conception et 🧪 des dizaines d'impressions de test pour mettre au point les ressorts, le pavé tactile, le port USB‑C et la charnière sont de moi.
+
+😊 Si vous l'imprimez, partagez une photo : j'adorerais voir le vôtre ! 📸
+
+━━━━━━━━━━━━━━━━━━━━
+🇩🇪 DEUTSCH
+━━━━━━━━━━━━━━━━━━━━
+🥑 AvocadoBook — Ein realistischer Spielzeug-Laptop, komplett gedruckt und gesteckt: ⌨️ 50 Tasten, die sich wirklich drücken lassen, 🖱️ ein bündiges Touchpad, das klickt, 🔌 ein USB‑C-Anschluss, der ein echtes Kabel festhält, 🖥️ ein Deckel mit Scharnier, das offen bleibt. 🚫🔩 Keine Schrauben, kein Kleber, nichts zu kaufen!
+
+🧸 Ein Spielzeug, das wie ein echter Computer aussieht und das man „benutzen“ kann, nicht nur anschauen. 💖
+
+⭐ EIGENSCHAFTEN
+⌨️ Vollständige Tastatur: 50 quadratische Tasten in versetzten Reihen wie bei einer echten Tastatur, weiße Beschriftung in die Taste gedruckt (keine Aufkleber!). Jede Taste federt 1,5 mm auf zwei gedruckten S-Federn und kommt von selbst zurück. 🔁
+🔒 Die Tasten lassen sich nach dem Zusammenbau nicht herausziehen (für die Kleinen gedacht). 👶
+🖱️ Touchpad bündig mit der Oberfläche: Es senkt sich um 1,2 mm mit einem schönen *Klick* und federt zurück. 👆
+🔌 Realistischer USB‑C-Anschluss mit federnden Zungen: Das Kabel steckt und hält wie in einem echten Ladegerät. ⚡
+🖥️ Deckel mit schwarzem Bildschirm, Rahmen und Logo; Rastscharnier, das den Deckel offen hält. 📐
+🧩 Nur Schnappverbindungen: 🚫 Schrauben, 🚫 Kleber, 🚫 Kaufteile.
+📏 Größe: ca. 250 × 176 mm, Bildschirm 230 × 144 mm.
+🇮🇹 Unten in Schwarz: „AvocadoBook – Designed in Italy“ (mehrfarbig gedruckt, kein Aufkleber).
+
+🎨 MATERIALIEN
+⬜ Graues PETG: Unterteil, Oberschale, Touchpad, Deckel
+⬛ Schwarzes PETG: Tasten, Bildschirm, Rahmen
+🤍 Weißes PETG: Buchstaben, Logo, Federn
+🟥 PLA (beliebige Farbe): nur als abbrechbare Stütze (Folien unter den Federn und kleine Scharnierstütze). PETG und PLA verbinden sich nicht ➜ sie lösen sich von Hand, ✂️ ohne Schneiden!
+
+🖨️ DRUCK
+✅ Gedruckt und getestet auf einem Anycubic Kobra X mit ACE (4 Slots): 1️⃣ graues PETG · 2️⃣ weißes PETG · 3️⃣ schwarzes PETG · 4️⃣ PLA
+📦 Die 3MF ist ein Anycubic Slicer Next-Projekt mit 7 fertigen Druckplatten (Einstellungen, Farben und Slots enthalten). Für andere Mehrfarbdrucker die Dateien der einzelnen Platten verwenden und die Farben wie oben zuweisen.
+⚙️ 0,2 mm Schichten · 4 Wände · Gyroid 15–30 % · keine Slicer-Stützen · kein Brim · Druckbett 80 °C für PETG.
+🌬️ Deckel und Oberschale sind groß und flach: Gehäuse verwenden oder den Drucker abdecken und Zugluft vermeiden, damit sich nichts verzieht.
+📄 Alle Details stehen im beigefügten Druckblatt (PDF).
+
+🔧 ZUSAMMENBAU
+📘 Siehe die beigefügte PDF „Montageanleitung“. Kurz: 🌀 Federn ins Unterteil ➜ 🖥️ Deckel ➜ ⌨️ Tasten und Touchpad ➜ 🔒 die Oberschale rastet in die Haken ein. 🎉
+
+⚠️ SICHERHEIT
+🚸 Enthält Kleinteile: nicht für Kinder unter 3 Jahren geeignet. 🧑‍🔧 Montage durch einen Erwachsenen. 🔍 Regelmäßig auf gebrochene oder scharfe Teile prüfen.
+
+🤖 WIE ES ENTSTANDEN IST
+Entworfen mit Hilfe eines KI-Assistenten (Claude von Anthropic), der den parametrischen CAD-Code geschrieben hat; 💡 die Idee, die Designentscheidungen und 🧪 Dutzende Testdrucke zur Abstimmung von Federn, Touchpad, USB‑C-Anschluss und Scharnier stammen von mir.
+
+😊 Wenn du ihn druckst, lade ein Foto hoch: Ich würde deinen sehr gerne sehen! 📸
+
+━━━━━━━━━━━━━━━━━━━━
+🇪🇸 ESPAÑOL
+━━━━━━━━━━━━━━━━━━━━
+🥑 AvocadoBook — Un portátil de juguete realista, totalmente impreso y montado a presión: ⌨️ 50 teclas que se pulsan de verdad, 🖱️ un touchpad enrasado que hace clic, 🔌 un puerto USB‑C que sujeta un cable real, 🖥️ una tapa con bisagra que se queda abierta. 🚫🔩 ¡Sin tornillos, sin pegamento, nada que comprar!
+
+🧸 Un juguete que parece un ordenador de verdad y que se puede «usar», no solo mirar. 💖
+
+⭐ CARACTERÍSTICAS
+⌨️ Teclado completo: 50 teclas cuadradas en filas escalonadas como en un teclado real, letras blancas impresas en la tecla (¡sin pegatinas!). Cada tecla baja 1,5 mm sobre dos muelles en S impresos y vuelve a subir sola. 🔁
+🔒 Las teclas no se pueden sacar una vez montadas (pensado para los más pequeños). 👶
+🖱️ Touchpad enrasado con la carcasa: baja 1,2 mm con un buen *clic* y vuelve a subir. 👆
+🔌 Puerto USB‑C realista con lengüetas elásticas: el cable entra y queda sujeto como en un cargador de verdad. ⚡
+🖥️ Tapa con pantalla negra, marco y logo; bisagra con topes que mantiene la tapa abierta. 📐
+🧩 Montaje solo a presión: 🚫 tornillos, 🚫 pegamento, 🚫 piezas compradas.
+📏 Medidas: unos 250 × 176 mm, pantalla 230 × 144 mm.
+🇮🇹 Debajo, en negro: «AvocadoBook – Designed in Italy» (impreso en color, sin pegatina).
+
+🎨 MATERIALES
+⬜ PETG gris: base, carcasa superior, touchpad, tapa
+⬛ PETG negro: teclas, pantalla, marco
+🤍 PETG blanco: letras, logo, muelles
+🟥 PLA (cualquier color): solo como soporte desprendible (láminas bajo los muelles y pequeño soporte de la bisagra). El PETG y el PLA no se pegan entre sí ➜ se separan con los dedos, ✂️ ¡sin cortar!
+
+🖨️ IMPRESIÓN
+✅ Impreso y probado en una Anycubic Kobra X con ACE (4 ranuras): 1️⃣ PETG gris · 2️⃣ PETG blanco · 3️⃣ PETG negro · 4️⃣ PLA
+📦 El 3MF es un proyecto de Anycubic Slicer Next con 7 bandejas listas (ajustes, colores y ranuras incluidos). Para otras impresoras multicolor, usa los archivos de cada bandeja y asigna los colores como arriba.
+⚙️ Capas de 0,2 mm · 4 perímetros · giroide 15–30 % · sin soportes del laminador · sin borde · cama a 80 °C para PETG.
+🌬️ La tapa y la carcasa superior son grandes y planas: usa un cerramiento o cubre la impresora y evita corrientes de aire para que no se deformen.
+📄 Todos los detalles están en la hoja de impresión (PDF) adjunta.
+
+🔧 MONTAJE
+📘 Consulta el PDF «Instrucciones de montaje» adjunto. En resumen: 🌀 muelles en la base ➜ 🖥️ tapa ➜ ⌨️ teclas y touchpad ➜ 🔒 la carcasa superior encaja en los ganchos. 🎉
+
+⚠️ SEGURIDAD
+🚸 Contiene piezas pequeñas: no apto para menores de 3 años. 🧑‍🔧 Montaje a cargo de un adulto. 🔍 Comprueba de vez en cuando que no haya piezas rotas o cortantes.
+
+🤖 CÓMO NACIÓ
+Diseñado con la ayuda de un asistente de IA (Claude, de Anthropic) que escribió el código CAD paramétrico; 💡 la idea, las decisiones de diseño y 🧪 decenas de impresiones de prueba para ajustar muelles, touchpad, puerto USB‑C y bisagra son mías.
+
+😊 Si lo imprimes, sube una foto: ¡me encantaría ver el tuyo! 📸
+
+━━━━━━━━━━━━━━━━━━━━
+🇵🇹 PORTUGUÊS
+━━━━━━━━━━━━━━━━━━━━
+🥑 AvocadoBook — Um portátil de brincar realista, totalmente impresso e montado por encaixe: ⌨️ 50 teclas que se carregam a sério, 🖱️ um touchpad nivelado que faz clique, 🔌 uma porta USB‑C que segura um cabo verdadeiro, 🖥️ uma tampa com dobradiça que fica aberta. 🚫🔩 Sem parafusos, sem cola, nada para comprar!
+
+🧸 Um brinquedo que parece um computador verdadeiro e que se pode «usar», não só olhar. 💖
+
+⭐ CARACTERÍSTICAS
+⌨️ Teclado completo: 50 teclas quadradas em filas desencontradas como num teclado real, letras brancas impressas na tecla (sem autocolantes!). Cada tecla desce 1,5 mm sobre duas molas em S impressas e volta a subir sozinha. 🔁
+🔒 As teclas não saem depois de montadas (pensado para os mais pequenos). 👶
+🖱️ Touchpad nivelado com a carcaça: desce 1,2 mm com um belo *clique* e volta a subir. 👆
+🔌 Porta USB‑C realista com linguetas elásticas: o cabo entra e fica preso como num carregador verdadeiro. ⚡
+🖥️ Tampa com ecrã preto, moldura e logótipo; dobradiça com batentes que mantém a tampa aberta. 📐
+🧩 Montagem só por encaixe: 🚫 parafusos, 🚫 cola, 🚫 peças compradas.
+📏 Dimensões: cerca de 250 × 176 mm, ecrã 230 × 144 mm.
+🇮🇹 Por baixo, a preto: «AvocadoBook – Designed in Italy» (impresso a cores, sem autocolante).
+
+🎨 MATERIAIS
+⬜ PETG cinzento: base, carcaça superior, touchpad, tampa
+⬛ PETG preto: teclas, ecrã, moldura
+🤍 PETG branco: letras, logótipo, molas
+🟥 PLA (qualquer cor): só como suporte destacável (folhas sob as molas e pequeno suporte da dobradiça). PETG e PLA não colam entre si ➜ separam-se com os dedos, ✂️ sem cortar!
+
+🖨️ IMPRESSÃO
+✅ Impresso e testado numa Anycubic Kobra X com ACE (4 slots): 1️⃣ PETG cinzento · 2️⃣ PETG branco · 3️⃣ PETG preto · 4️⃣ PLA
+📦 O 3MF é um projeto do Anycubic Slicer Next com 7 placas prontas (definições, cores e slots incluídos). Para outras impressoras multicor, usa os ficheiros de cada placa e atribui as cores como acima.
+⚙️ Camadas de 0,2 mm · 4 paredes · giroide 15–30 % · sem suportes do fatiador · sem aba · mesa a 80 °C para PETG.
+🌬️ A tampa e a carcaça superior são grandes e planas: usa uma caixa fechada ou tapa a impressora e evita correntes de ar para não empenarem.
+📄 Todos os detalhes estão na ficha de impressão (PDF) em anexo.
+
+🔧 MONTAGEM
+📘 Vê o PDF «Instruções de montagem» em anexo. Em resumo: 🌀 molas na base ➜ 🖥️ tampa ➜ ⌨️ teclas e touchpad ➜ 🔒 a carcaça superior encaixa nos ganchos. 🎉
+
+⚠️ SEGURANÇA
+🚸 Contém peças pequenas: não adequado a crianças com menos de 3 anos. 🧑‍🔧 Montagem por um adulto. 🔍 Verifica de vez em quando se há peças partidas ou cortantes.
+
+🤖 COMO NASCEU
+Desenhado com a ajuda de um assistente de IA (Claude, da Anthropic) que escreveu o código CAD paramétrico; 💡 a ideia, as escolhas de design e 🧪 dezenas de impressões de teste para afinar molas, touchpad, porta USB‑C e dobradiça são minhas.
+
+😊 Se o imprimires, publica uma foto: adorava ver o teu! 📸
+
+━━━━━━━━━━━━━━━━━━━━
+🇳🇱 NEDERLANDS
+━━━━━━━━━━━━━━━━━━━━
+🥑 AvocadoBook — Een realistische speelgoedlaptop, volledig geprint en in elkaar geklikt: ⌨️ 50 toetsen die echt indrukken, 🖱️ een vlak touchpad dat klikt, 🔌 een USB‑C-poort die een echte kabel vasthoudt, 🖥️ een deksel met scharnier dat open blijft staan. 🚫🔩 Geen schroeven, geen lijm, niets te kopen!
+
+🧸 Speelgoed dat eruitziet als een echte computer en dat je kunt "gebruiken", niet alleen bekijken. 💖
+
+⭐ KENMERKEN
+⌨️ Volledig toetsenbord: 50 vierkante toetsen in verspringende rijen zoals bij een echt toetsenbord, witte letters in de toets geprint (geen stickers!). Elke toets veert 1,5 mm in op twee geprinte S-veren en komt vanzelf terug. 🔁
+🔒 De toetsen kunnen er na montage niet meer uit (bedoeld voor de kleintjes). 👶
+🖱️ Touchpad vlak met de behuizing: zakt 1,2 mm in met een fijne *klik* en veert terug. 👆
+🔌 Realistische USB‑C-poort met verende lipjes: de kabel gaat erin en blijft zitten zoals in een echte lader. ⚡
+🖥️ Deksel met zwart scherm, rand en logo; scharnier met klikstanden dat het deksel open houdt. 📐
+🧩 Alleen klikverbindingen: 🚫 schroeven, 🚫 lijm, 🚫 gekochte onderdelen.
+📏 Afmetingen: ongeveer 250 × 176 mm, scherm 230 × 144 mm.
+🇮🇹 Onderop in zwart: "AvocadoBook – Designed in Italy" (meerkleurig geprint, geen sticker).
+
+🎨 MATERIALEN
+⬜ Grijs PETG: onderkant, bovenkant, touchpad, deksel
+⬛ Zwart PETG: toetsen, scherm, rand
+🤍 Wit PETG: letters, logo, veren
+🟥 PLA (elke kleur): alleen als afbreekbare ondersteuning (vellen onder de veren en een klein scharniersteuntje). PETG en PLA hechten niet aan elkaar ➜ ze komen met de hand los, ✂️ zonder knippen!
+
+🖨️ PRINTEN
+✅ Geprint en getest op een Anycubic Kobra X met ACE (4 slots): 1️⃣ grijs PETG · 2️⃣ wit PETG · 3️⃣ zwart PETG · 4️⃣ PLA
+📦 De 3MF is een Anycubic Slicer Next-project met 7 kant-en-klare platen (instellingen, kleuren en slots inbegrepen). Gebruik voor andere meerkleurenprinters de bestanden per plaat en wijs de kleuren toe zoals hierboven.
+⚙️ Lagen van 0,2 mm · 4 wanden · gyroid 15–30 % · geen slicer-ondersteuning · geen brim · bed 80 °C voor PETG.
+🌬️ Deksel en bovenkant zijn groot en plat: gebruik een behuizing of dek de printer af en vermijd tocht om kromtrekken te voorkomen.
+📄 Alle details staan in het bijgevoegde printblad (PDF).
+
+🔧 MONTAGE
+📘 Zie de bijgevoegde PDF "Montage-instructies". Kort: 🌀 veren in de onderkant ➜ 🖥️ deksel ➜ ⌨️ toetsen en touchpad ➜ 🔒 de bovenkant klikt op de haken. 🎉
+
+⚠️ VEILIGHEID
+🚸 Bevat kleine onderdelen: niet geschikt voor kinderen onder 3 jaar. 🧑‍🔧 Montage door een volwassene. 🔍 Controleer regelmatig op gebroken of scherpe onderdelen.
+
+🤖 HOE HET IS ONTSTAAN
+Ontworpen met hulp van een AI-assistent (Claude van Anthropic) die de parametrische CAD-code schreef; 💡 het idee, de ontwerpkeuzes en 🧪 tientallen testprints om veren, touchpad, USB‑C-poort en scharnier af te stellen zijn van mij.
+
+😊 Print je hem? Deel een foto: ik zou de jouwe heel graag zien! 📸
+
+━━━━━━━━━━━━━━━━━━━━
+🇵🇱 POLSKI
+━━━━━━━━━━━━━━━━━━━━
+🥑 AvocadoBook — Realistyczny laptop-zabawka, w całości wydrukowany i składany na zatrzaski: ⌨️ 50 klawiszy, które naprawdę się wciskają, 🖱️ płaski touchpad, który klika, 🔌 port USB‑C, który trzyma prawdziwy kabel, 🖥️ pokrywa z zawiasem, który zostaje otwarty. 🚫🔩 Bez śrub, bez kleju, nic do kupienia!
+
+🧸 Zabawka, która wygląda jak prawdziwy komputer i której można „używać”, a nie tylko na nią patrzeć. 💖
+
+⭐ CECHY
+⌨️ Pełna klawiatura: 50 kwadratowych klawiszy w przesuniętych rzędach jak w prawdziwej klawiaturze, białe litery wydrukowane w klawiszu (bez naklejek!). Każdy klawisz ugina się o 1,5 mm na dwóch drukowanych sprężynach S i sam wraca. 🔁
+🔒 Po złożeniu klawiszy nie da się wyjąć (z myślą o najmłodszych). 👶
+🖱️ Touchpad równo z obudową: opuszcza się o 1,2 mm z przyjemnym *kliknięciem* i wraca. 👆
+🔌 Realistyczny port USB‑C ze sprężystymi języczkami: kabel wchodzi i trzyma się jak w prawdziwej ładowarce. ⚡
+🖥️ Pokrywa z czarnym ekranem, ramką i logo; zawias z zatrzaskami utrzymuje pokrywę otwartą. 📐
+🧩 Tylko połączenia zatrzaskowe: 🚫 śruby, 🚫 klej, 🚫 kupione części.
+📏 Wymiary: około 250 × 176 mm, ekran 230 × 144 mm.
+🇮🇹 Na spodzie, na czarno: „AvocadoBook – Designed in Italy” (druk wielokolorowy, bez naklejki).
+
+🎨 MATERIAŁY
+⬜ Szary PETG: spód, górna obudowa, touchpad, pokrywa
+⬛ Czarny PETG: klawisze, ekran, ramka
+🤍 Biały PETG: litery, logo, sprężyny
+🟥 PLA (dowolny kolor): tylko jako odłamywana podpora (arkusze pod sprężynami i mała podpórka zawiasu). PETG i PLA nie łączą się ze sobą ➜ rozdzielają się palcami, ✂️ bez cięcia!
+
+🖨️ DRUK
+✅ Wydrukowane i przetestowane na Anycubic Kobra X z ACE (4 sloty): 1️⃣ szary PETG · 2️⃣ biały PETG · 3️⃣ czarny PETG · 4️⃣ PLA
+📦 Plik 3MF to projekt Anycubic Slicer Next z 7 gotowymi stołami (ustawienia, kolory i sloty w zestawie). Dla innych drukarek wielokolorowych użyj plików poszczególnych stołów i przypisz kolory jak wyżej.
+⚙️ Warstwa 0,2 mm · 4 ściany · gyroid 15–30 % · bez podpór slicera · bez brimu · stół 80 °C dla PETG.
+🌬️ Pokrywa i górna obudowa są duże i płaskie: użyj obudowy lub przykryj drukarkę i unikaj przeciągów, aby się nie wypaczyły.
+📄 Wszystkie szczegóły w załączonej karcie druku (PDF).
+
+🔧 MONTAŻ
+📘 Zobacz załączony PDF „Instrukcja montażu”. W skrócie: 🌀 sprężyny w spodzie ➜ 🖥️ pokrywa ➜ ⌨️ klawisze i touchpad ➜ 🔒 górna obudowa zatrzaskuje się na hakach. 🎉
+
+⚠️ BEZPIECZEŃSTWO
+🚸 Zawiera małe części: nieodpowiednie dla dzieci poniżej 3 lat. 🧑‍🔧 Montaż przez osobę dorosłą. 🔍 Regularnie sprawdzaj, czy nie ma pękniętych lub ostrych części.
+
+🤖 JAK POWSTAŁ
+Zaprojektowany z pomocą asystenta AI (Claude od Anthropic), który napisał parametryczny kod CAD; 💡 pomysł, decyzje projektowe i 🧪 dziesiątki wydruków testowych do dopracowania sprężyn, touchpada, portu USB‑C i zawiasu są moje.
+
+😊 Jeśli go wydrukujesz, wrzuć zdjęcie: bardzo chętnie zobaczę Twój! 📸
+
+━━━━━━━━━━━━━━━━━━━━
+🇨🇳 中文
+━━━━━━━━━━━━━━━━━━━━
+🥑 AvocadoBook — 一台逼真的玩具笔记本电脑，全部打印、卡扣组装：⌨️ 50 个真的能按下去的按键，🖱️ 与机身齐平、会“咔哒”的触控板，🔌 能卡住真实数据线的 USB‑C 接口，🖥️ 能停在打开位置的屏幕盖。🚫🔩 无需螺丝、无需胶水、无需购买任何零件！
+
+🧸 一个看起来像真电脑、可以“用”而不只是看的玩具。💖
+
+⭐ 特点
+⌨️ 完整键盘：50 个方形按键，像真键盘一样错位排列，白色字母直接打印在按键里（不是贴纸！）。每个按键靠两根打印的 S 形弹簧下压 1.5 毫米，并自动回弹。🔁
+🔒 组装后按键无法拔出（为小朋友设计）。👶
+🖱️ 触控板与机身齐平：按下 1.2 毫米，发出清脆的 *咔哒* 声并回弹。👆
+🔌 逼真的 USB‑C 接口，带弹性卡舌：数据线插入后像真充电器一样被卡住。⚡
+🖥️ 屏幕盖带黑色屏幕、边框和标志；带档位的转轴可让屏幕盖保持打开。📐
+🧩 全部卡扣连接：🚫 螺丝，🚫 胶水，🚫 外购零件。
+📏 尺寸：约 250 × 176 毫米，屏幕 230 × 144 毫米。
+🇮🇹 底部黑色字样：“AvocadoBook – Designed in Italy”（多色打印，不是贴纸）。
+
+🎨 材料
+⬜ 灰色 PETG：底壳、上壳、触控板、屏幕盖
+⬛ 黑色 PETG：按键、屏幕、边框
+🤍 白色 PETG：字母、标志、弹簧
+🟥 PLA（任意颜色）：仅用作可掰除的支撑（弹簧下方的薄片和转轴的小支撑）。PETG 与 PLA 互不粘合 ➜ 用手即可分离，✂️ 无需剪切！
+
+🖨️ 打印
+✅ 在 Anycubic Kobra X + ACE（4 个料槽）上打印并测试：1️⃣ 灰色 PETG · 2️⃣ 白色 PETG · 3️⃣ 黑色 PETG · 4️⃣ PLA
+📦 3MF 文件是 Anycubic Slicer Next 项目，包含 7 个已设置好的打印板（参数、颜色和料槽均已包含）。使用其他多色打印机时，请使用各打印板的文件并按上述方式分配颜色。
+⚙️ 层高 0.2 毫米 · 4 层外壁 · 螺旋体（gyroid）填充 15–30 % · 不使用切片软件支撑 · 不加裙边（brim）· PETG 热床 80 °C。
+🌬️ 屏幕盖和上壳又大又平：请使用封闭机箱或给打印机加罩，并避免气流，以防翘曲。
+📄 所有细节见附带的打印说明（PDF）。
+
+🔧 组装
+📘 请参阅附带的《组装说明》PDF。简要步骤：🌀 把弹簧装入底壳 ➜ 🖥️ 安装屏幕盖 ➜ ⌨️ 放入按键和触控板 ➜ 🔒 上壳扣到卡钩上。🎉
+
+⚠️ 安全
+🚸 含有小零件：不适合 3 岁以下儿童。🧑‍🔧 请由成人组装。🔍 请定期检查是否有破损或锋利的部件。
+
+🤖 设计过程
+在 AI 助手（Anthropic 的 Claude）的帮助下设计，由它编写参数化 CAD 代码；💡 创意、设计决策以及 🧪 为调校弹簧、触控板、USB‑C 接口和转轴而进行的数十次试打印均由我完成。
+
+😊 如果你打印了它，请上传一张照片：我很想看看你的作品！📸
+
+━━━━━━━━━━━━━━━━━━━━
+🇯🇵 日本語
+━━━━━━━━━━━━━━━━━━━━
+🥑 AvocadoBook — すべて印刷してはめ込みで組み立てる、リアルなおもちゃのノートパソコン：⌨️ 本当に押せる 50 個のキー、🖱️ 本体と面一でクリックするトラックパッド、🔌 本物のケーブルがしっかり挿さる USB‑C ポート、🖥️ 開いた位置で止まるヒンジ付きの画面。🚫🔩 ネジなし、接着剤なし、購入部品なし！
+
+🧸 本物のパソコンのように見えて、眺めるだけでなく「使える」おもちゃです。💖
+
+⭐ 特長
+⌨️ フルキーボード：本物のキーボードと同じく段違いに並んだ 50 個の正方形キー。白い文字はキーに直接印刷（シールではありません！）。各キーは印刷した 2 本の S 字バネで 1.5 mm 沈み、自動で戻ります。🔁
+🔒 組み立て後はキーが抜けません（小さなお子さま向け）。👶
+🖱️ トラックパッドは本体と面一：1.2 mm 沈んで気持ちよく *カチッ* と鳴り、元に戻ります。👆
+🔌 弾性ツメ付きのリアルな USB‑C ポート：本物の充電器のようにケーブルが挿さって保持されます。⚡
+🖥️ 黒い画面・ベゼル・ロゴ付きのふた。段階的に止まるヒンジでふたを開いたまま保持します。📐
+🧩 スナップフィットのみ：🚫 ネジ、🚫 接着剤、🚫 購入部品。
+📏 サイズ：約 250 × 176 mm、画面 230 × 144 mm。
+🇮🇹 底面に黒文字：「AvocadoBook – Designed in Italy」（多色印刷、シールではありません）。
+
+🎨 材料
+⬜ グレー PETG：底面、上部ケース、トラックパッド、ふた
+⬛ ブラック PETG：キー、画面、ベゼル
+🤍 ホワイト PETG：文字、ロゴ、バネ
+🟥 PLA（色は自由）：取り外すサポートとしてのみ使用（バネの下のシートとヒンジの小さなサポート）。PETG と PLA は互いにくっつかない ➜ 手で外せます、✂️ カット不要！
+
+🖨️ 印刷
+✅ Anycubic Kobra X + ACE（4 スロット）で印刷・テスト済み：1️⃣ グレー PETG · 2️⃣ ホワイト PETG · 3️⃣ ブラック PETG · 4️⃣ PLA
+📦 3MF は 7 枚のプレートを設定済みの Anycubic Slicer Next プロジェクトです（設定・色・スロット込み）。他のマルチカラープリンターでは、各プレートのファイルを使い、上記のとおり色を割り当ててください。
+⚙️ 積層 0.2 mm · 壁 4 層 · ジャイロイド 15–30 % · スライサーのサポートなし · ブリムなし · PETG はベッド 80 °C。
+🌬️ ふたと上部ケースは大きく平らなので、反りを防ぐためにエンクロージャーを使うかプリンターを覆い、風を避けてください。
+📄 詳細はすべて添付の印刷シート（PDF）にあります。
+
+🔧 組み立て
+📘 添付の PDF「組み立て説明書」をご覧ください。手順の概要：🌀 バネを底面へ ➜ 🖥️ ふた ➜ ⌨️ キーとトラックパッド ➜ 🔒 上部ケースをフックにはめ込む。🎉
+
+⚠️ 安全について
+🚸 小さな部品を含みます：3 歳未満のお子さまには適していません。🧑‍🔧 組み立ては大人が行ってください。🔍 破損や鋭い部分がないか定期的に確認してください。
+
+🤖 制作について
+AI アシスタント（Anthropic の Claude）の協力で設計し、パラメトリック CAD コードは AI が書きました。💡 アイデア、設計上の判断、そしてバネ・トラックパッド・USB‑C ポート・ヒンジを調整するための 🧪 数十回のテスト印刷は私自身によるものです。
+
+😊 印刷したらぜひ写真を投稿してください。あなたの作品を見られたらとても嬉しいです！📸
+
+━━━━━━━━━━━━━━━━━━━━
+🇷🇺 РУССКИЙ
+━━━━━━━━━━━━━━━━━━━━
+🥑 AvocadoBook — Реалистичный игрушечный ноутбук, полностью напечатанный и собранный на защёлках: ⌨️ 50 клавиш, которые по-настоящему нажимаются, 🖱️ тачпад вровень с корпусом, который щёлкает, 🔌 порт USB‑C, который держит настоящий кабель, 🖥️ крышка с шарниром, которая остаётся открытой. 🚫🔩 Без винтов, без клея, ничего не нужно покупать!
+
+🧸 Игрушка, которая выглядит как настоящий компьютер и которой можно «пользоваться», а не только смотреть на неё. 💖
+
+⭐ ОСОБЕННОСТИ
+⌨️ Полная клавиатура: 50 квадратных клавиш в смещённых рядах, как на настоящей клавиатуре, белые буквы напечатаны прямо в клавише (никаких наклеек!). Каждая клавиша опускается на 1,5 мм на двух напечатанных S‑образных пружинах и сама возвращается. 🔁
+🔒 После сборки клавиши нельзя вынуть (рассчитано на малышей). 👶
+🖱️ Тачпад вровень с корпусом: опускается на 1,2 мм с приятным *щелчком* и возвращается. 👆
+🔌 Реалистичный порт USB‑C с упругими лепестками: кабель вставляется и держится, как в настоящей зарядке. ⚡
+🖥️ Крышка с чёрным экраном, рамкой и логотипом; шарнир с фиксацией держит крышку открытой. 📐
+🧩 Только защёлки: 🚫 винты, 🚫 клей, 🚫 покупные детали.
+📏 Размеры: около 250 × 176 мм, экран 230 × 144 мм.
+🇮🇹 Снизу чёрным: «AvocadoBook – Designed in Italy» (многоцветная печать, не наклейка).
+
+🎨 МАТЕРИАЛЫ
+⬜ Серый PETG: нижняя часть, верхний корпус, тачпад, крышка
+⬛ Чёрный PETG: клавиши, экран, рамка
+🤍 Белый PETG: буквы, логотип, пружины
+🟥 PLA (любой цвет): только как отламываемая поддержка (листы под пружинами и маленькая опора шарнира). PETG и PLA не склеиваются друг с другом ➜ разделяются руками, ✂️ без резки!
+
+🖨️ ПЕЧАТЬ
+✅ Напечатано и проверено на Anycubic Kobra X с ACE (4 слота): 1️⃣ серый PETG · 2️⃣ белый PETG · 3️⃣ чёрный PETG · 4️⃣ PLA
+📦 Файл 3MF — проект Anycubic Slicer Next с 7 готовыми столами (настройки, цвета и слоты включены). Для других многоцветных принтеров используйте файлы отдельных столов и назначьте цвета, как указано выше.
+⚙️ Слой 0,2 мм · 4 стенки · гироид 15–30 % · без поддержек слайсера · без каймы (brim) · стол 80 °C для PETG.
+🌬️ Крышка и верхний корпус большие и плоские: используйте закрытый корпус или накройте принтер и избегайте сквозняков, чтобы детали не повело.
+📄 Все подробности — в приложенной карте печати (PDF).
+
+🔧 СБОРКА
+📘 См. приложенный PDF «Инструкция по сборке». Кратко: 🌀 пружины в нижнюю часть ➜ 🖥️ крышка ➜ ⌨️ клавиши и тачпад ➜ 🔒 верхний корпус защёлкивается на крючках. 🎉
+
+⚠️ БЕЗОПАСНОСТЬ
+🚸 Содержит мелкие детали: не подходит детям младше 3 лет. 🧑‍🔧 Сборку должен выполнять взрослый. 🔍 Регулярно проверяйте, нет ли сломанных или острых деталей.
+
+🤖 КАК ЭТО СОЗДАВАЛОСЬ
+Спроектировано с помощью ИИ‑ассистента (Claude от Anthropic), который написал параметрический CAD‑код; 💡 идея, проектные решения и 🧪 десятки тестовых печатей для настройки пружин, тачпада, порта USB‑C и шарнира — мои.
+
+😊 Если напечатаете его, поделитесь фото: очень хочется увидеть ваш! 📸
+
+━━━━━━━━━━━━━━━━━━━━
+🇸🇦 العربية
+━━━━━━━━━━━━━━━━━━━━
+🥑 AvocadoBook — حاسوب محمول لعبة واقعي، مطبوع بالكامل ويُركَّب بالتعشيق: ⌨️ ‏50 زرًا تُضغط فعلًا، 🖱️ لوحة لمس مستوية مع الهيكل تُصدر نقرة، 🔌 منفذ USB‑C يُمسك كبلًا حقيقيًا، 🖥️ غطاء بمفصل يبقى مفتوحًا. 🚫🔩 بدون براغٍ، بدون غراء، ولا شيء للشراء!
+
+🧸 لعبة تبدو مثل حاسوب حقيقي ويمكن «استخدامها»، لا مجرد النظر إليها. 💖
+
+⭐ المميزات
+⌨️ لوحة مفاتيح كاملة: ‏50 زرًا مربعًا في صفوف متدرجة كما في لوحة المفاتيح الحقيقية، والحروف البيضاء مطبوعة داخل الزر (بدون ملصقات!). ينخفض كل زر 1.5 مم على نابضين مطبوعين على شكل حرف S ويعود وحده. 🔁
+🔒 لا يمكن نزع الأزرار بعد التركيب (مصمَّم للصغار). 👶
+🖱️ لوحة اللمس مستوية مع الهيكل: تنخفض 1.2 مم مع *نقرة* لطيفة ثم تعود. 👆
+🔌 منفذ USB‑C واقعي بألسنة مرنة: يدخل الكبل ويثبت كما في شاحن حقيقي. ⚡
+🖥️ غطاء بشاشة سوداء وإطار وشعار؛ مفصل بمواضع تثبيت يُبقي الغطاء مفتوحًا. 📐
+🧩 تركيب بالتعشيق فقط: 🚫 براغٍ، 🚫 غراء، 🚫 قطع مشتراة.
+📏 المقاسات: نحو 250 × 176 مم، والشاشة 230 × 144 مم.
+🇮🇹 في الأسفل باللون الأسود: «AvocadoBook – Designed in Italy» (طباعة متعددة الألوان، ليست ملصقًا).
+
+🎨 المواد
+⬜ PETG رمادي: القاعدة، الهيكل العلوي، لوحة اللمس، الغطاء
+⬛ PETG أسود: الأزرار، الشاشة، الإطار
+🤍 PETG أبيض: الحروف، الشعار، النوابض
+🟥 PLA (أي لون): فقط كدعامة قابلة للنزع (صفائح تحت النوابض ودعامة صغيرة للمفصل). لا يلتصق PETG وPLA ببعضهما ➜ ينفصلان باليد، ✂️ بدون قص!
+
+🖨️ الطباعة
+✅ طُبع واختُبر على Anycubic Kobra X مع ACE (4 فتحات): 1️⃣ PETG رمادي · 2️⃣ PETG أبيض · 3️⃣ PETG أسود · 4️⃣ PLA
+📦 ملف 3MF هو مشروع Anycubic Slicer Next يضم 7 ألواح جاهزة (الإعدادات والألوان والفتحات مضمّنة). للطابعات متعددة الألوان الأخرى، استخدم ملفات كل لوح وعيّن الألوان كما في الأعلى.
+⚙️ طبقة 0.2 مم · 4 جدران · حشوة gyroid بنسبة 15–30 % · بدون دعامات من برنامج التقطيع · بدون حافة (brim) · سرير 80 °C لـ PETG.
+🌬️ الغطاء والهيكل العلوي كبيران ومسطحان: استخدم طابعة مغلقة أو غطِّ الطابعة وتجنّب تيارات الهواء لمنع الالتواء.
+📄 جميع التفاصيل في ورقة الطباعة المرفقة (PDF).
+
+🔧 التركيب
+📘 راجع ملف PDF المرفق «تعليمات التركيب». باختصار: 🌀 النوابض في القاعدة ➜ 🖥️ الغطاء ➜ ⌨️ الأزرار ولوحة اللمس ➜ 🔒 يُعشَّق الهيكل العلوي على الخطاطيف. 🎉
+
+⚠️ السلامة
+🚸 يحتوي على قطع صغيرة: غير مناسب للأطفال دون 3 سنوات. 🧑‍🔧 يجب أن يتولى التركيب شخص بالغ. 🔍 افحص بانتظام عدم وجود قطع مكسورة أو حادة.
+
+🤖 كيف صُنع
+صُمِّم بمساعدة مساعد ذكاء اصطناعي (Claude من Anthropic) كتب شيفرة CAD البارامترية؛ 💡 أما الفكرة وقرارات التصميم و🧪 عشرات الطبعات التجريبية لضبط النوابض ولوحة اللمس ومنفذ USB‑C والمفصل فهي من عملي.
+
+😊 إذا طبعته، شارك صورة: يسعدني كثيرًا أن أرى نسختك! 📸

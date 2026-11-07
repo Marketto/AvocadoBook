@@ -1,0 +1,42 @@
+TITRE
+🥑 AvocadoBook – Ordinateur portable jouet avec vraies touches, pavé tactile qui clique et charnière à crans – sans vis, tout en PETG 🧸
+
+RÉSUMÉ
+🥑 AvocadoBook — Un ordinateur portable jouet réaliste, entièrement imprimé et assemblé par emboîtement : ⌨️ 50 touches qui s'enfoncent vraiment, 🖱️ un pavé tactile affleurant qui clique, 🔌 un port USB‑C qui retient un vrai câble, 🖥️ un couvercle avec une charnière qui reste ouverte. 🚫🔩 Ni vis, ni colle, rien à acheter !
+
+DESCRIPTION
+🧸 Un jouet qui ressemble à un vrai ordinateur et qu'on peut « utiliser », pas seulement regarder. 💖
+
+⭐ CARACTÉRISTIQUES
+⌨️ Clavier complet : 50 touches carrées en rangées décalées comme sur un vrai clavier, lettres blanches imprimées dans la touche (pas d'autocollants !). Chaque touche descend de 1,5 mm sur deux ressorts en S imprimés et remonte toute seule. 🔁
+🔒 Les touches ne peuvent pas être retirées une fois montées (pensé pour les petits). 👶
+🖱️ Pavé tactile au ras du boîtier : il s'enfonce de 1,2 mm avec un joli *clic* et remonte. 👆
+🔌 Port USB‑C réaliste avec languettes élastiques : le câble s'enfiche et tient comme dans un vrai chargeur. ⚡
+🖥️ Couvercle avec écran noir, cadre et logo ; charnière à crans qui maintient le couvercle ouvert. 📐
+🧩 Assemblage uniquement par clipsage : 🚫 vis, 🚫 colle, 🚫 pièces à acheter.
+📏 Dimensions : environ 250 × 176 mm, écran 230 × 144 mm.
+🇮🇹 Dessous, en noir : « AvocadoBook – Designed in Italy » (impression multicolore, pas d'autocollant).
+
+🎨 MATÉRIAUX
+⬜ PETG gris : base, boîtier supérieur, pavé tactile, couvercle
+⬛ PETG noir : touches, écran, cadre
+🤍 PETG blanc : lettres, logo, ressorts
+🟥 PLA (n'importe quelle couleur) : uniquement comme support détachable (feuilles sous les ressorts et petit support de charnière). Le PETG et le PLA ne collent pas entre eux ➜ ils se séparent à la main, ✂️ sans couper !
+
+🖨️ IMPRESSION
+✅ Imprimé et testé sur Anycubic Kobra X avec ACE (4 emplacements) : 1️⃣ PETG gris · 2️⃣ PETG blanc · 3️⃣ PETG noir · 4️⃣ PLA
+📦 Le 3MF est un projet Anycubic Slicer Next avec 7 plateaux prêts (réglages, couleurs et emplacements inclus). Pour d'autres imprimantes multicolores, utilisez les fichiers de chaque plateau et attribuez les couleurs comme ci-dessus.
+⚙️ Couches de 0,2 mm · 4 parois · gyroïde 15–30 % · pas de supports du trancheur · pas de bordure · plateau à 80 °C pour le PETG.
+🌬️ Le couvercle et le boîtier supérieur sont grands et plats : utilisez un caisson ou couvrez l'imprimante et évitez les courants d'air pour éviter le gauchissement.
+📄 Tous les détails sont dans la fiche d'impression (PDF) jointe.
+
+🔧 ASSEMBLAGE
+📘 Voir le PDF « Instructions de montage » joint. En bref : 🌀 ressorts dans la base ➜ 🖥️ couvercle ➜ ⌨️ touches et pavé tactile ➜ 🔒 le boîtier supérieur se clipse sur les crochets. 🎉
+
+⚠️ SÉCURITÉ
+🚸 Contient de petites pièces : ne convient pas aux enfants de moins de 3 ans. 🧑‍🔧 Montage par un adulte. 🔍 Vérifiez régulièrement l'absence de pièces cassées ou coupantes.
+
+🤖 COMMENT IL A ÉTÉ CRÉÉ
+Conçu avec l'aide d'un assistant IA (Claude, d'Anthropic) qui a écrit le code CAO paramétrique ; 💡 l'idée, les choix de conception et 🧪 des dizaines d'impressions de test pour mettre au point les ressorts, le pavé tactile, le port USB‑C et la charnière sont de moi.
+
+😊 Si vous l'imprimez, partagez une photo : j'adorerais voir le vôtre ! 📸

@@ -1,0 +1,44 @@
+TITLE
+🥑 AvocadoBook – Toy laptop with real-feel keys, clicking trackpad and snap hinge – no screws, all PETG 🧸
+
+SUMMARY
+🥑 AvocadoBook — A realistic toy laptop, fully printed and snap-fit: ⌨️ 50 keys that really press, 🖱️ a flush trackpad that clicks, 🔌 a USB‑C port that grips a real cable, 🖥️ a lid with a hinge that stays open. 🚫🔩 No screws, no glue, nothing to buy!
+
+DESCRIPTION
+🧸 A toy that looks like a real computer and can be "used", not just looked at. 💖
+
+⭐ FEATURES
+⌨️ Full keyboard: 50 square keys in staggered rows like a real keyboard, white legends printed into the keys (no stickers!). Each key travels 1.5 mm on two printed S‑springs and comes back up by itself. 🔁
+🔒 Keys can't be pulled out once assembled (made for little ones). 👶
+🖱️ Trackpad flush with the deck: it goes down 1.2 mm with a nice *click* and springs back. 👆
+🔌 Realistic USB‑C port with flexible fingers: a real cable plugs in and holds like in a charger. ⚡
+🖥️ Lid with black screen, bezel and logo; detent hinge that keeps the lid open. 📐
+🧩 Snap-fit only: 🚫 screws, 🚫 glue, 🚫 bought parts.
+📏 Size: about 250 × 176 mm, screen 230 × 144 mm.
+🇮🇹 Underneath, in black: "AvocadoBook – Designed in Italy" (multicolour print, no sticker).
+
+🎨 MATERIALS
+⬜ Grey PETG: bottom, top case, trackpad, lid
+⬛ Black PETG: keys, screen, bezel
+🤍 White PETG: legends, logo, springs
+🟥 PLA (any colour): only as break-away support (sheets under the springs and a small hinge support). PETG and PLA don't bond ➜ they separate by hand, ✂️ no cutting!
+
+🖨️ PRINTING
+✅ Printed and tested on an Anycubic Kobra X with ACE (4 slots): 1️⃣ grey PETG · 2️⃣ white PETG · 3️⃣ black PETG · 4️⃣ PLA
+📦 The 3MF is an Anycubic Slicer Next project with 7 ready plates (settings, colours and slots included). For other multi-colour printers use the per-plate files and assign colours as above.
+⚙️ 0.2 mm layers · 4 walls · gyroid 15–30 % · no slicer supports · no brim · bed 80 °C for PETG.
+🌬️ The lid and top case are large and flat: use an enclosure or cover the printer and avoid drafts to prevent warping.
+📄 All details are in the attached print sheet (PDF, English and Italian).
+
+🔧 ASSEMBLY
+📘 See the attached assembly instructions (PDF). In short: 🌀 springs into the bottom ➜ ⌨️ keys and trackpad ➜ 🖥️ slide the lid hinge into the bottom and open it to at least 105° ➜ 🔒 the top case snaps onto the hooks. 🎉
+
+⚠️ SAFETY
+🚸 Contains small parts: not suitable for children under 3. 🧑‍🔧 Adult assembly. 🔍 Check regularly for broken or sharp parts.
+
+🤖 HOW IT WAS MADE
+Designed with the help of an AI assistant (Claude by Anthropic) that wrote the parametric CAD code; 💡 the idea, design decisions and 🧪 dozens of test prints to tune springs, trackpad, USB‑C port and hinge are mine.
+
+💼 License: CC BY-NC-SA. For commercial use (selling prints or files), please contact me.
+
+😊 If you print one, please post a make: I'd love to see yours! 📸

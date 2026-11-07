@@ -1,0 +1,42 @@
+TITEL
+🥑 AvocadoBook – Spielzeug-Laptop mit echten Tasten, klickendem Touchpad und Rastscharnier – ohne Schrauben, komplett aus PETG 🧸
+
+KURZBESCHREIBUNG
+🥑 AvocadoBook — Ein realistischer Spielzeug-Laptop, komplett gedruckt und gesteckt: ⌨️ 50 Tasten, die sich wirklich drücken lassen, 🖱️ ein bündiges Touchpad, das klickt, 🔌 ein USB‑C-Anschluss, der ein echtes Kabel festhält, 🖥️ ein Deckel mit Scharnier, das offen bleibt. 🚫🔩 Keine Schrauben, kein Kleber, nichts zu kaufen!
+
+BESCHREIBUNG
+🧸 Ein Spielzeug, das wie ein echter Computer aussieht und das man „benutzen“ kann, nicht nur anschauen. 💖
+
+⭐ EIGENSCHAFTEN
+⌨️ Vollständige Tastatur: 50 quadratische Tasten in versetzten Reihen wie bei einer echten Tastatur, weiße Beschriftung in die Taste gedruckt (keine Aufkleber!). Jede Taste federt 1,5 mm auf zwei gedruckten S-Federn und kommt von selbst zurück. 🔁
+🔒 Die Tasten lassen sich nach dem Zusammenbau nicht herausziehen (für die Kleinen gedacht). 👶
+🖱️ Touchpad bündig mit der Oberfläche: Es senkt sich um 1,2 mm mit einem schönen *Klick* und federt zurück. 👆
+🔌 Realistischer USB‑C-Anschluss mit federnden Zungen: Das Kabel steckt und hält wie in einem echten Ladegerät. ⚡
+🖥️ Deckel mit schwarzem Bildschirm, Rahmen und Logo; Rastscharnier, das den Deckel offen hält. 📐
+🧩 Nur Schnappverbindungen: 🚫 Schrauben, 🚫 Kleber, 🚫 Kaufteile.
+📏 Größe: ca. 250 × 176 mm, Bildschirm 230 × 144 mm.
+🇮🇹 Unten in Schwarz: „AvocadoBook – Designed in Italy“ (mehrfarbig gedruckt, kein Aufkleber).
+
+🎨 MATERIALIEN
+⬜ Graues PETG: Unterteil, Oberschale, Touchpad, Deckel
+⬛ Schwarzes PETG: Tasten, Bildschirm, Rahmen
+🤍 Weißes PETG: Buchstaben, Logo, Federn
+🟥 PLA (beliebige Farbe): nur als abbrechbare Stütze (Folien unter den Federn und kleine Scharnierstütze). PETG und PLA verbinden sich nicht ➜ sie lösen sich von Hand, ✂️ ohne Schneiden!
+
+🖨️ DRUCK
+✅ Gedruckt und getestet auf einem Anycubic Kobra X mit ACE (4 Slots): 1️⃣ graues PETG · 2️⃣ weißes PETG · 3️⃣ schwarzes PETG · 4️⃣ PLA
+📦 Die 3MF ist ein Anycubic Slicer Next-Projekt mit 7 fertigen Druckplatten (Einstellungen, Farben und Slots enthalten). Für andere Mehrfarbdrucker die Dateien der einzelnen Platten verwenden und die Farben wie oben zuweisen.
+⚙️ 0,2 mm Schichten · 4 Wände · Gyroid 15–30 % · keine Slicer-Stützen · kein Brim · Druckbett 80 °C für PETG.
+🌬️ Deckel und Oberschale sind groß und flach: Gehäuse verwenden oder den Drucker abdecken und Zugluft vermeiden, damit sich nichts verzieht.
+📄 Alle Details stehen im beigefügten Druckblatt (PDF).
+
+🔧 ZUSAMMENBAU
+📘 Siehe die beigefügte PDF „Montageanleitung“. Kurz: 🌀 Federn ins Unterteil ➜ 🖥️ Deckel ➜ ⌨️ Tasten und Touchpad ➜ 🔒 die Oberschale rastet in die Haken ein. 🎉
+
+⚠️ SICHERHEIT
+🚸 Enthält Kleinteile: nicht für Kinder unter 3 Jahren geeignet. 🧑‍🔧 Montage durch einen Erwachsenen. 🔍 Regelmäßig auf gebrochene oder scharfe Teile prüfen.
+
+🤖 WIE ES ENTSTANDEN IST
+Entworfen mit Hilfe eines KI-Assistenten (Claude von Anthropic), der den parametrischen CAD-Code geschrieben hat; 💡 die Idee, die Designentscheidungen und 🧪 Dutzende Testdrucke zur Abstimmung von Federn, Touchpad, USB‑C-Anschluss und Scharnier stammen von mir.
+
+😊 Wenn du ihn druckst, lade ein Foto hoch: Ich würde deinen sehr gerne sehen! 📸

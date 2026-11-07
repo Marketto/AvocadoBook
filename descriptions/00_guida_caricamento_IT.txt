@@ -1,0 +1,41 @@
+🚀 GUIDA AL CARICAMENTO SU MAKERWORLD
+(i nomi dei campi possono essere un po' diversi: segui l'ordine del modulo di caricamento)
+
+1️⃣ FILE DEL MODELLO 📦
+   • AvocadoBook_progetto.3mf  → progetto completo, 7 piatti (Anycubic Slicer Next)
+   • i 7 file dei piatti: 1_fondo.3mf … 7_trackpad.3mf (+ le versioni _oggetto_unico)
+   • facoltativo: gli STL dei singoli pezzi (cartella stl/ nello zip) per chi usa altri slicer
+   ℹ️ Il "profilo di stampa" di MakerWorld si crea solo con Bambu Studio: se te lo chiede, carica il modello senza profilo (solo file).
+
+2️⃣ TITOLO ✏️  → "AvocadoBook – Toy Laptop with Real Keys & Clicking Trackpad" (o la riga TITLE di descrizioni/02_EN_english.txt)
+   🌍 Se il sito permette titoli/descrizioni per lingua, usa i file 01–12 della cartella descrizioni/ (riga TITOLO + testo)
+
+3️⃣ FOTO 📸
+   • Copertina: una TUA foto reale del laptop aperto, con luce naturale e sfondo pulito
+   • Altre foto consigliate: laptop chiuso · tastiera da vicino · trackpad · porta USB‑C con il cavo · i pezzi appena stampati sul piatto
+   • Le anteprime 3D (anteprima.png, anteprima_piatti_stampa.png) vanno bene come immagini aggiuntive
+   ⚠️ Niente immagini generate con l'IA come foto del modello (regola di MakerWorld)
+
+4️⃣ CATEGORIA 🗂️  → Giocattoli e giochi (Toys & Games)
+
+5️⃣ TAG 🏷️
+   laptop, toy, kids, giocattolo, keyboard, computer, snap-fit, print-in-place-free, PETG, multicolor, Anycubic, Kobra X, pretend play
+
+6️⃣ DESCRIZIONE 📝  → incolla descrizioni/00_TUTTE_LE_LINGUE_da_incollare.txt (12 lingue in fila con bandierine)
+   🇮🇹 🇬🇧 🇫🇷 🇩🇪 🇪🇸 🇵🇹 🇳🇱 🇵🇱 🇨🇳 🇯🇵 🇷🇺 🇸🇦
+   ℹ️ Se il testo è troppo lungo per il campo, metti le 12 lingue dal riassunto (riga SUMMARY/RIASSUNTO di ogni file) + la descrizione completa in inglese e italiano
+
+7️⃣ ISTRUZIONI / DOCUMENTI 📘
+   • 1_istruzioni_montaggio.pdf (italiano) · 3_assembly_instructions_EN.pdf (inglese)
+   • 2_scheda_stampa_KobraX.pdf (italiano) · 4_print_sheet_KobraX_EN.pdf (inglese)
+   (se il modulo ha una sezione "Assembly guide" a passi, puoi copiare i passi 0–6 dal PDF, una foto per passo)
+
+8️⃣ CONTENUTO GENERATO CON IA 🤖  → spunta "AI‑Generated Content / AIGC"
+
+9️⃣ LICENZA ⚖️  → Creative Commons BY‑NC‑SA (stampa e remix liberi, niente vendita, remix con la stessa licenza)
+   + nella descrizione: "Per uso commerciale contattami / For commercial use, please contact me"
+
+🔟 PRIMA DI PUBBLICARE ✅
+   • 🔧 Aspetta di aver montato il laptop con il nuovo piano (cerniera v26m) e di aver verificato il montaggio
+   • 🖼️ Controlla che il logo sul coperchio non ricordi il marchio di un'azienda reale
+   • 👀 Rileggi testo e foto in anteprima, poi pubblica 🎉

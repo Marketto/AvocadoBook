@@ -1,0 +1,80 @@
+<title>Segna il punto</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<style>
+/* layout: tool bar on top, the drawing fills the width; note + send below */
+:root{--bg:#f3f4f6;--panel:#ffffff;--fg:#1d232b;--muted:#5d6672;--line:#d5d9df;--ink:#e0301e;--accent:#2f5d8c;
+ --f-ui:"IBM Plex Sans",system-ui,sans-serif;--f-mono:"IBM Plex Mono",ui-monospace,monospace}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#15181c;--panel:#1e2329;--fg:#e8ebef;--muted:#9aa4b1;--line:#343b44;--ink:#ff5a45;--accent:#7fb0e0;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#15181c;--panel:#1e2329;--fg:#e8ebef;--muted:#9aa4b1;--line:#343b44;--ink:#ff5a45;--accent:#7fb0e0;color-scheme:dark}
+body{background:var(--bg);color:var(--fg);font-family:var(--f-ui);padding-block:16px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.wrap{max-width:1180px;margin:0 auto;display:grid;gap:12px}
+h1{font-size:20px;margin:0;text-wrap:balance}
+p.lead{margin:0;color:var(--muted);max-width:70ch;line-height:1.45}
+.bar{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+button{font:600 14px var(--f-ui);padding:8px 14px;border-radius:8px;border:1px solid var(--line);background:var(--panel);color:var(--fg);cursor:pointer}
+button[aria-pressed="true"]{border-color:var(--ink);color:var(--ink)}
+button.primary{background:var(--accent);border-color:var(--accent);color:var(--panel)}
+button:focus-visible,textarea:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+button:disabled{opacity:.5;cursor:default}
+.sw{width:18px;height:18px;border-radius:50%;display:inline-block;vertical-align:-4px;margin-right:6px;border:1px solid var(--line)}
+.stage{background:#fff;border:1px solid var(--line);border-radius:8px;overflow:hidden;touch-action:none}
+canvas{display:block;width:100%;height:auto;cursor:crosshair}
+label{font-size:13px;color:var(--muted)}
+textarea{width:100%;box-sizing:border-box;min-height:70px;font:15px var(--f-ui);padding:10px;border-radius:8px;border:1px solid var(--line);background:var(--panel);color:var(--fg);resize:vertical}
+.status{font-family:var(--f-mono);font-size:13px;color:var(--muted);min-height:1.4em}
+.status.ok{color:var(--accent)}
+</style>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&family=IBM+Plex+Sans:wght@400;600&display=swap">
+<div class="wrap">
+  <h1>Segna il punto</h1>
+  <p class="lead">Disegna con il dito, il pennino o il mouse sul punto che intendi (cerchialo, fai una freccia o disegna la forma che vorresti). Poi scrivi due parole e premi <b>Invia a Claude</b>.</p>
+  <div class="bar" role="toolbar" aria-label="Strumenti">
+    <button id="t-red" aria-pressed="true"><span class="sw" style="background:#e0301e"></span>Rosso</button>
+    <button id="t-blue" aria-pressed="false"><span class="sw" style="background:#1f6fd1"></span>Blu</button>
+    <button id="t-green" aria-pressed="false"><span class="sw" style="background:#1e9e4a"></span>Verde</button>
+    <button id="t-thin" aria-pressed="false">Tratto fine</button>
+    <button id="t-thick" aria-pressed="true">Tratto spesso</button>
+    <button id="undo">Annulla ultimo</button>
+    <button id="clear">Cancella tutto</button>
+  </div>
+  <div class="stage"><canvas id="cv" aria-label="Immagine della cerniera su cui disegnare"></canvas></div>
+  <label for="note">Nota (facoltativa)</label>
+  <textarea id="note" placeholder="Es.: qui vorrei che la curva continuasse fino al pezzo del fondo senza scalino"></textarea>
+  <div class="bar"><button class="primary" id="send">Invia a Claude</button><span class="status" id="st" role="status"></span></div>
+</div>
+<script>
+const IMG = "data:image/png;base64,__IMG__";
+const cv = document.getElementById('cv'), ctx = cv.getContext('2d'), st = document.getElementById('st');
+const img = new Image(); let strokes = [], cur = null, color = '#e0301e', width = 6;
+img.onload = () => { cv.width = img.width; cv.height = img.height; draw(); };
+img.src = IMG;
+function draw(){ ctx.clearRect(0,0,cv.width,cv.height); ctx.drawImage(img,0,0);
+  for (const s of strokes.concat(cur ? [cur] : [])) { ctx.strokeStyle = s.c; ctx.lineWidth = s.w; ctx.lineCap = 'round'; ctx.lineJoin = 'round';
+    ctx.beginPath(); s.p.forEach((q,i) => i ? ctx.lineTo(q[0],q[1]) : ctx.moveTo(q[0],q[1])); if (s.p.length === 1) ctx.lineTo(s.p[0][0]+0.1, s.p[0][1]); ctx.stroke(); } }
+function pos(e){ const r = cv.getBoundingClientRect(); return [(e.clientX - r.left) * cv.width / r.width, (e.clientY - r.top) * cv.height / r.height]; }
+cv.addEventListener('pointerdown', e => { cv.setPointerCapture(e.pointerId); cur = {c: color, w: width, p: [pos(e)]}; draw(); });
+cv.addEventListener('pointermove', e => { if (!cur) return; cur.p.push(pos(e)); draw(); });
+const end = () => { if (cur) { strokes.push(cur); cur = null; draw(); } };
+cv.addEventListener('pointerup', end); cv.addEventListener('pointercancel', end);
+const sel = (ids, on) => ids.forEach(i => document.getElementById(i).setAttribute('aria-pressed', i === on));
+[['t-red','#e0301e'],['t-blue','#1f6fd1'],['t-green','#1e9e4a']].forEach(([id,c]) => document.getElementById(id).onclick = () => { color = c; sel(['t-red','t-blue','t-green'], id); });
+document.getElementById('t-thin').onclick = () => { width = 3; sel(['t-thin','t-thick'], 't-thin'); };
+document.getElementById('t-thick').onclick = () => { width = 6; sel(['t-thin','t-thick'], 't-thick'); };
+document.getElementById('undo').onclick = () => { strokes.pop(); draw(); };
+document.getElementById('clear').onclick = () => { strokes = []; draw(); };
+let assets = null, db = null;
+(async () => { try { [assets, db] = await Promise.all([window.claude?.use?.('assets'), window.claude?.use?.('db')]); } catch (e) {}
+  if (!assets || !db) { st.textContent = 'Invio non disponibile qui: fai uno screenshot del disegno e mandamelo in chat.'; document.getElementById('send').disabled = true; } })();
+document.getElementById('send').onclick = async () => {
+  const b = document.getElementById('send');
+  if (!strokes.length) { st.className = 'status'; st.textContent = 'Disegna prima qualcosa sull\'immagine.'; return; }
+  b.disabled = true; st.className = 'status'; st.textContent = 'Invio in corso…';
+  try {
+    const blob = await new Promise(r => cv.toBlob(r, 'image/png'));
+    const a = await assets.upload(blob);
+    await db.collection('segni').add({asset_id: a.id, url: a.url, nota: document.getElementById('note').value.slice(0, 2000), quando: new Date().toISOString()});
+    st.className = 'status ok'; st.textContent = 'Inviato. Torna in chat e scrivimi "fatto".';
+  } catch (e) { st.textContent = 'Non sono riuscito a inviare (' + (e && (e.code || e.message) || 'errore') + '). Fai uno screenshot e mandamelo in chat.'; }
+  b.disabled = false;
+};
+</script>

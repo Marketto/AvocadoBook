@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="it"><head><meta charset="utf-8"><title>Scheda stampa laptop giocattolo</title>
+<style>
+@page { size: A4; margin: 12mm; }
+body { font-family: "DejaVu Sans", Arial, sans-serif; font-size: 9.2pt; color: #1a1a1a; }
+h1 { font-size: 15pt; margin: 0 0 2mm; }
+h2 { font-size: 11pt; margin: 5mm 0 1.5mm; border-bottom: 1.5px solid #333; padding-bottom: 1mm; }
+p.note { margin: 1mm 0 2mm; color: #444; }
+table { border-collapse: collapse; width: 100%; margin-bottom: 2mm; }
+th, td { border: 1px solid #999; padding: 1.2mm 1.6mm; vertical-align: top; text-align: left; }
+th { background: #e8e8e8; }
+td.k { width: 30%; font-weight: bold; background: #f6f6f6; }
+.two { display: flex; gap: 4mm; } .two > div { flex: 1; }
+.tag { display:inline-block; padding:0 1.5mm; border-radius:2mm; font-size:8pt; font-weight:bold; }
+.petg { background:#d7e9ff; } .pla { background:#ffe2c6; }
+.pb { page-break-before: always; }
+ol, ul { margin: 1mm 0 2mm 5mm; padding-left: 3mm; }
+li { margin-bottom: 0.6mm; }
+</style></head><body>
+
+<h1>Laptop giocattolo – scheda di stampa (Anycubic Kobra X + ACE)</h1>
+<p class="note">Valori di partenza: Anycubic non pubblica un profilo PETG specifico per Kobra X. Parti dal profilo <b>Kobra X + PETG</b> di Anycubic Slicer Next (versione ≥ 1.3.9.3) e cambia solo le voci qui sotto. Velocità, accelerazioni, pressure advance e retrazione: lascia quelle del profilo.</p>
+
+<h2>1. Materiali e slot ACE</h2>
+<table>
+<tr><th>Slot</th><th>Materiale</th><th>Colore</th><th>Usato per</th></tr>
+<tr><td>1</td><td><span class="tag petg">PETG</span></td><td>Grigio</td><td>fondo, piano, trackpad, corpo coperchio</td></tr>
+<tr><td>2</td><td><span class="tag petg">PETG</span></td><td>Bianco</td><td>lettere dei tasti, logo, molle a S</td></tr>
+<tr><td>3</td><td><span class="tag petg">PETG</span></td><td>Nero</td><td>tasti, fondo schermo, cornice schermo</td></tr>
+<tr><td>4</td><td><span class="tag pla">PLA</span></td><td>Rosso (qualsiasi)</td><td>supportino cerniera (piatto 3) e fogli sotto le molle (piatto 6)</td></tr>
+</table>
+<p class="note"><b>Progetto unico</b> <code>AvocadoBook_progetto.3mf</code>: 7 piatti, slot e impostazioni di questa scheda già inseriti (profilo Kobra X + PETG/PLA dell'utente). I file 3MF hanno <b>un gruppo per materiale</b> ("1 GRIGIO PETG", "2 BIANCO PETG", "3 NERO PETG", "4 PLA (supporti)"): nello slicer assegna il filamento al gruppo, non ai singoli pezzi. Sulla stampante il tipo di ogni slot deve coincidere con lo slicer (PETG/PLA), altrimenti non lascia abbinare lo slot. Bobine senza RFID: imposta tipo e colore a mano nello slot.</p>
+
+<h2>2. Impostazioni per materiale (profilo filamento)</h2>
+<div class="two"><div>
+<table>
+<tr><th colspan="2"><span class="tag petg">PETG</span> corpo, nero, bianco</th></tr>
+<tr><td class="k">Ugello</td><td>230 °C anche al primo strato (deve stare nell'intervallo del PLA, 190–230 °C, perché alcuni piatti usano entrambi)</td></tr>
+<tr><td class="k">Piatto</td><td>80 °C per tutta la stampa (il coperchio a 70 °C si imbarcava)</td></tr>
+<tr><td class="k">Ventola</td><td>min 10 % – max 30 %; spenta nei primi 3 strati (meno raffreddamento = meno imbarcamento)</td></tr>
+<tr><td class="k">Flusso</td><td>0,95–0,98 (meglio dopo una calibrazione)</td></tr>
+<tr><td class="k">Velocità vol. max</td><td>12 mm³/s</td></tr>
+<tr><td class="k">Z-hop</td><td>0,4 mm (riduce graffi e fili)</td></tr>
+<tr><td class="k">Essiccazione</td><td>65 °C per 4–6 h prima delle stampe lunghe</td></tr>
+<tr><td class="k">Piatto PEI liscio (aiuto di stampa, non parte del giocattolo)</td><td>velo di colla stick come distaccante</td></tr>
+</table>
+</div><div>
+<table>
+<tr><th colspan="2"><span class="tag pla">PLA</span> solo supportino cerniera</th></tr>
+<tr><td class="k">Ugello</td><td>225 °C (deve stare nell'intervallo del PETG, 220–250 °C)</td></tr>
+<tr><td class="k">Piatto</td><td><b>70 °C anche nel profilo PLA</b> (così il piatto non cambia temperatura)</td></tr>
+<tr><td class="k">Ventola</td><td>100 %</td></tr>
+<tr><td class="k">Interfaccia</td><td>PLA e PETG non si incollano: il supporto si stacca netto. Il gioco di 0,1 mm è già nel modello.</td></tr>
+<tr><td class="k">Se resta attaccato</td><td>chiedi il modello con <code>SUP_GAP = 0.2</code></td></tr>
+</table>
+</div></div>
+
+<h2>3. Impostazioni di processo comuni a tutti i piatti</h2>
+<table>
+<tr><td class="k">Altezza strato</td><td>0,20 mm (primo strato 0,20 mm)</td></tr>
+<tr><td class="k">Pareti</td><td>4 (tasti e cornice: 3)</td></tr>
+<tr><td class="k">Strati superiori / inferiori</td><td>5 / 4</td></tr>
+<tr><td class="k">Riempimento</td><td>gyroid 15 % (piano e coperchio 20 %)</td></tr>
+<tr><td class="k">Generatore pareti</td><td>Arachne (predefinito) – serve per nervature dei pioli e lamelle sottili</td></tr>
+<tr><td class="k">Compensazione piede d'elefante</td><td>0,15 mm</td></tr>
+<tr><td class="k">Compensazione fori / contorni X-Y</td><td>0 / 0 (le tolleranze sono nel modello)</td></tr>
+<tr><td class="k">Supporti</td><td><b>disattivati</b> (il supportino necessario è già un oggetto del modello)</td></tr>
+<tr><td class="k">Stiratura (ironing)</td><td><b>disattivata ovunque</b>: con il PETG trascina grumi sulla superficie. Sul piatto <b>2_piano</b>: 8 strati superiori, riempimento 30 %, superficie superiore monotonica 0,4 mm a 40 mm/s. Già impostato nel progetto.</td></tr>
+<tr><td class="k">Brim</td><td><b>nessuno su tutti i piatti</b> (in PETG sul PEI testurizzato si toglie solo con le forbici)</td></tr>
+<tr><td class="k">Velocità (qualità prima del tempo)</td><td>primo strato 25 mm/s (è la faccia visibile dei pezzi stampati a faccia in giù); parete esterna e superfici superiori 60 mm/s; pareti interne 120 mm/s; accelerazione parete esterna e superfici 1000 mm/s²; parete esterna precisa attiva. Già impostato nel progetto.</td></tr>
+<tr><td class="k">Cucitura</td><td>allineata / posteriore</td></tr>
+<tr><td class="k">Torre di spurgo</td><td>attiva solo sui piatti multicolore (3_coperchio, 4_tasti) e sui test a più colori; larghezza 35 mm (Processo → Globale → Multimateriale). <b>Posizione: in alto a sinistra</b> (angolo posteriore sinistro), per es. X ≈ 15, Y ≈ 200: in quei file l'area X 0–85 / Y 182–260 è lasciata libera apposta. Se lo slicer ricentra gli oggetti all'importazione, spostali in basso a destra prima di posizionare la torre.</td></tr>
+<tr><td class="k">Volumi di spurgo</td><td>nero → bianco: aumenta (moltiplicatore 1,2–1,5); grigio ↔ nero: predefinito; verso PLA e da PLA: predefinito</td></tr>
+</table>
+
+<h2 class="pb">4. Piatti</h2>
+<table>
+<tr><th style="width:17%">Piatto</th><th style="width:30%">Oggetto → filamento</th><th>Note specifiche</th></tr>
+<tr><td><b>1_fondo</b><br>2 colori</td><td>A_fondo → slot 1 PETG grigio<br>A_fondo_scritta_nera → 3 PETG nero</td><td>La scritta "AvocadoBook – Designed in Italy" sotto il fondo è nera, nei primi 3 strati (faccia sul piatto): torre di spurgo in alto a sinistra, solo per quegli strati. Niente brim (il fondo ha un appoggio largo; il brim in PETG sul PEI testurizzato si toglie a fatica). Nervature con i canali delle alette, scanalature delle molle e lamelle del click del trackpad: non ridurre le pareti, niente supporti.</td></tr>
+<tr><td><b>2_piano</b><br>1 colore</td><td>B_piano → 1 grigio</td><td>4 orecchie anti-distacco a strappo agli angoli (si staccano con le dita). <b>I due copri-asse della cerniera si stampano pieni</b>: nel progetto ci sono due modificatori (<i>MOD_cerniera_piena_1/2</i>: riempimento 100 %, 6 pareti); non cancellarli. Sopra l'asse il copri-asse fa un piccolo arco nel vuoto: niente supporti. Niente stiratura; superficie superiore monotonica a 40 mm/s. <b>Staccalo a piatto freddo piegando la lamiera, mai tirando dai copri-asse.</b></td></tr>
+<tr><td><b>7_trackpad</b><br>1 colore</td><td>B_trackpad → 1 grigio</td><td>Trackpad a faccia in giù, <b>senza supporti</b>: il bordino e le alette hanno la faccia superiore inclinata a 45° e si stampano da soli. Pareti 4, riempimento 20 %.</td></tr>
+
+
+<tr><td><b>3_coperchio</b><br>4 materiali</td><td>C_coperchio_corpo → 1<br>C_coperchio_schermo → 3 nero<br>C_coperchio_logo → 2 bianco<br>C_supporto_PLA → 4 PLA</td><td>Stampa con la faccia esterna sul piatto: il logo è nei primi 4 strati. <b>6 orecchie anti-distacco</b> (agli angoli e accanto alle tacche della cerniera, collo largo 4 mm): si staccano piegandole avanti e indietro con le dita; il piccolo residuo si rifinisce con una limetta. <b>Indispensabile: stampante coperta</b> (scatola di cartone capovolta o tenda) e lontana da correnti d'aria: il coperchio è il pezzo più soggetto a imbarcarsi. Primo strato lento (25–30 mm/s) per i dettagli del logo. Riempimento 20 %. Rimuovi il supportino PLA a mano dopo la stampa.</td></tr>
+<tr><td><b>4_tasti</b><br>2 colori</td><td>D_tasti → 3 nero<br>D_lettere → 2 bianco</td><td>Tasti cavi a faccia in giù: le lettere sono nei primi 3 strati, la faccia è liscia. Pareti 3. Spurgo nero ↔ bianco aumentato, altrimenti le lettere vengono grigie. Le alette sporgono sotto il bordo: niente supporti. Niente brim: i tasti (circa 15 × 15 mm) aderiscono bene da soli. Primo strato 20 mm/s.</td></tr>
+<tr><td><b>6_molle_S</b><br>2 materiali</td><td>F_molle_S_… → 2 PETG bianco<br>F_fogli_PLA → 4 PLA</td><td>12 strisce di molle, ognuna su un <b>foglio di PLA da 0,4 mm</b> (provato nel test 17b): il PETG non si lega al PLA, a fine stampa le molle si staccano con le dita, niente orecchie né brim. Riempimento 100 %, pareti 2, Arachne. Torre di spurgo in alto a sinistra (angolo lasciato libero). Piatto 70 °C anche nel profilo PLA.</td></tr>
+
+<tr><td><b>5_cornice_schermo</b><br>1 colore</td><td>E_cornice → 3 nero</td><td>Faccia visibile sul piatto: piatto pulito, primo strato lento. 4 orecchie anti-distacco a strappo agli angoli. Pareti 3. Pioli: tempo minimo di strato ≥ 5 s così non si deformano.</td></tr>
+</table>
+
+<h2>5. Montaggio</h2>
+<ol>
+<li>Nel fondo, infila le 10 strisce di molle <b>in piedi</b> nelle scanalature, con la barretta in basso: per ogni fila una davanti e una dietro (le S di quella "dietro" sono specchiate). Il nome del file dice fila e lato (fila 1 = numeri).</li>
+<li>Appoggia ogni tasto nel suo posto: le 4 alette entrano nei canali delle nervature.</li>
+<li>Trackpad: infila le 2 strisce corte, poi appoggia il trackpad con il bordo-guida nella sua sede.</li>
+<li>Coperchio: fai scorrere l'asse della cerniera da davanti nelle due sedi del fondo e <b>aprilo ad almeno 105°</b> (a 90° lo schermo intralcia il piano).</li>
+<li>Appoggia il piano dall'alto: i due copri-asse scendono sopra l'asse. Premi prima dietro, poi verso il davanti, finché tutti i ganci scattano.</li>
+</ol>
+<h2>6. Test (cartella test/)</h2>
+<ol>
+<li><b>TEST_1_pioli_calibrazione</b>: fatto (foro 4 = 2,9 mm).</li>
+<li><b>TEST_2-3_cornice_cerniera</b>: cerniera, scatti, foglio – fatto.</li>
+<li><b>TEST_19_fondo_e_trackpad_senza_supporti</b>: trackpad a filo con click – ok.</li>
+<li><b>TEST_20_porta_usbc</b>: porta USB-C con linguette elastiche – perfetto.</li>
+<li><b>TEST_27_cerniera_senza_fessure</b>: copri-asse della cerniera (pieno) + raccordo della tastiera, da provare sul fondo prima del piano intero.</li>
+</ol>
+<h2>7. Controlli rapidi se qualcosa non va</h2>
+<table>
+<tr><th style="width:35%">Problema</th><th>Cosa provare</th></tr>
+<tr><td>Fili / superfici ruvide</td><td>asciugare il PETG; ugello −5 °C (minimo 225 °C sui piatti con PLA); Z-hop 0,4</td></tr>
+<tr><td>Pezzi che non si incastrano</td><td>compensazione piede d'elefante 0,15; poi calibrazione pioli e modifica dei parametri nel modello</td></tr>
+<tr><td>Lettere/logo grigiastri</td><td>aumentare lo spurgo nero → bianco</td></tr>
+<tr><td>Torre di spurgo che si stacca</td><td>allargarla (più contatto col piatto); piatto pulito</td></tr>
+<tr><td>Strati che si separano (ganci fragili)</td><td>ventola più bassa; ugello +5 °C</td></tr>
+<tr><td>PETG che strappa il piatto</td><td>colla stick come distaccante</td></tr>
+</table>
+</body></html>

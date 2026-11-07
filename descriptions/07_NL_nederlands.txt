@@ -1,0 +1,42 @@
+TITEL
+🥑 AvocadoBook – Speelgoedlaptop met echte toetsen, klikkend touchpad en scharnier met klikstanden – zonder schroeven, helemaal PETG 🧸
+
+SAMENVATTING
+🥑 AvocadoBook — Een realistische speelgoedlaptop, volledig geprint en in elkaar geklikt: ⌨️ 50 toetsen die echt indrukken, 🖱️ een vlak touchpad dat klikt, 🔌 een USB‑C-poort die een echte kabel vasthoudt, 🖥️ een deksel met scharnier dat open blijft staan. 🚫🔩 Geen schroeven, geen lijm, niets te kopen!
+
+BESCHRIJVING
+🧸 Speelgoed dat eruitziet als een echte computer en dat je kunt "gebruiken", niet alleen bekijken. 💖
+
+⭐ KENMERKEN
+⌨️ Volledig toetsenbord: 50 vierkante toetsen in verspringende rijen zoals bij een echt toetsenbord, witte letters in de toets geprint (geen stickers!). Elke toets veert 1,5 mm in op twee geprinte S-veren en komt vanzelf terug. 🔁
+🔒 De toetsen kunnen er na montage niet meer uit (bedoeld voor de kleintjes). 👶
+🖱️ Touchpad vlak met de behuizing: zakt 1,2 mm in met een fijne *klik* en veert terug. 👆
+🔌 Realistische USB‑C-poort met verende lipjes: de kabel gaat erin en blijft zitten zoals in een echte lader. ⚡
+🖥️ Deksel met zwart scherm, rand en logo; scharnier met klikstanden dat het deksel open houdt. 📐
+🧩 Alleen klikverbindingen: 🚫 schroeven, 🚫 lijm, 🚫 gekochte onderdelen.
+📏 Afmetingen: ongeveer 250 × 176 mm, scherm 230 × 144 mm.
+🇮🇹 Onderop in zwart: "AvocadoBook – Designed in Italy" (meerkleurig geprint, geen sticker).
+
+🎨 MATERIALEN
+⬜ Grijs PETG: onderkant, bovenkant, touchpad, deksel
+⬛ Zwart PETG: toetsen, scherm, rand
+🤍 Wit PETG: letters, logo, veren
+🟥 PLA (elke kleur): alleen als afbreekbare ondersteuning (vellen onder de veren en een klein scharniersteuntje). PETG en PLA hechten niet aan elkaar ➜ ze komen met de hand los, ✂️ zonder knippen!
+
+🖨️ PRINTEN
+✅ Geprint en getest op een Anycubic Kobra X met ACE (4 slots): 1️⃣ grijs PETG · 2️⃣ wit PETG · 3️⃣ zwart PETG · 4️⃣ PLA
+📦 De 3MF is een Anycubic Slicer Next-project met 7 kant-en-klare platen (instellingen, kleuren en slots inbegrepen). Gebruik voor andere meerkleurenprinters de bestanden per plaat en wijs de kleuren toe zoals hierboven.
+⚙️ Lagen van 0,2 mm · 4 wanden · gyroid 15–30 % · geen slicer-ondersteuning · geen brim · bed 80 °C voor PETG.
+🌬️ Deksel en bovenkant zijn groot en plat: gebruik een behuizing of dek de printer af en vermijd tocht om kromtrekken te voorkomen.
+📄 Alle details staan in het bijgevoegde printblad (PDF).
+
+🔧 MONTAGE
+📘 Zie de bijgevoegde PDF "Montage-instructies". Kort: 🌀 veren in de onderkant ➜ 🖥️ deksel ➜ ⌨️ toetsen en touchpad ➜ 🔒 de bovenkant klikt op de haken. 🎉
+
+⚠️ VEILIGHEID
+🚸 Bevat kleine onderdelen: niet geschikt voor kinderen onder 3 jaar. 🧑‍🔧 Montage door een volwassene. 🔍 Controleer regelmatig op gebroken of scherpe onderdelen.
+
+🤖 HOE HET IS ONTSTAAN
+Ontworpen met hulp van een AI-assistent (Claude van Anthropic) die de parametrische CAD-code schreef; 💡 het idee, de ontwerpkeuzes en 🧪 tientallen testprints om veren, touchpad, USB‑C-poort en scharnier af te stellen zijn van mij.
+
+😊 Print je hem? Deel een foto: ik zou de jouwe heel graag zien! 📸
